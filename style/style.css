@@ -1,0 +1,2542 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Cabin|Roboto|Shadows+Into+Light|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+
+@media all and (max-width:480px) {
+	.ajouterpanier {
+	float:right;
+	opacity:.5;
+	background:#262526;
+	color:#fff;
+	vertical-align:middle;
+	border:none;
+	text-shadow:none;
+	box-shadow:none;
+	text-transform:uppercase;
+	transition:all .15s;
+	border-radius:3px;
+	font-family:'Roboto', sans-serif;
+	height:25px;
+	margin-right:20px;
+	margin-top:-45px;
+	text-decoration:none;
+	padding-left:5px;
+	width:70px;
+	height:20px;
+	font-size:15px;
+	}
+	.police p {
+		text-align:justify;
+	}
+	
+	body {
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	min-width:320px;
+	}
+	.envoyer {
+	width:300px;
+	background-color:#26B99A;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	margin-bottom:20px;
+	margin-top:10px;
+	}
+
+	#logo {
+		width:100px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	.mailcontact {
+	width:300px;
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+	}
+	.basdepage {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align:center;
+	}
+
+	.services li { 
+	font-family: 'Cabin', sans-serif;
+	font-size:13px;
+	}
+	.basdepage a {
+	text-decoration:none;
+	color:white;
+	margin-right:10px;
+	}
+	#histoireanbg {
+	font-size: 22px;
+	text-align:justify;
+	color:white;
+	line-height:26px;
+	}
+	p {
+	font-family: 'Cabin', sans-serif;
+	font-size:13px;
+	}
+	h1 {
+		font-family: 'Gloria Hallelujah', cursive;
+		text-align:center;
+		font-size:25px;
+	}
+	h2 { 
+		font-family: 'Shadows Into Light', cursive;
+		text-align:center;
+		font-size:25px;
+	}
+	h3 {
+		font-family: 'Roboto', sans-serif;
+		text-align:center;
+	}
+	h4 {
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+	.police {
+	color:black;
+	line-height:25px;
+	padding-top:20px;
+	text-align:center;
+	}
+	.menus li {
+	margin-left:0px;
+	display:inline;
+	color:#804A4A;
+	}
+	.menus a {
+	text-decoration:none;
+	color:#804A4A;
+	font-size:20px;
+	font-family: 'Cabin', sans-serif;
+	line-height:40px;
+	}
+	.hautdusite {
+		display:none;
+	}
+	.soulignement {
+	height:1px;
+	width:240px;
+	background-color:black;
+	margin:auto;
+	}
+	.soulignement2 {
+		height:1px;
+		width:240px;
+		background-color:black;
+		margin:auto;
+		margin-top:2px;
+	}
+	.soulignement3 {
+		height:1px;
+		width:240px;
+		background-color:white;
+		margin:auto;
+	}
+	.soulignement4 {
+		height:1px;
+		width:240px;
+		background-color:white;
+		margin:auto;
+		margin-top:2px;
+	}
+	.texteservices p {
+	text-align:justify;
+	}
+	.menus a {
+		font-size:11px;
+	}
+
+
+	.background ul {
+		margin-left: -40px;
+	}
+
+	.imageblocnote { 
+		width:100%;
+		background-color:rgba(0,0,0,0.8);
+		height:100%;
+		background-repeat:no-repeat;
+		background-size:cover;
+		background-position:center;
+		margin-top:30px;
+		padding-top:1px;
+	}
+		
+	.diaporama {
+		width:310px;
+	}
+	footer {
+	background-color:#23252A;
+	color:white;
+	width:100%;
+}
+	.basdepage {
+		margin-right:0px;
+	}
+	.container {
+		width:300px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.nom {
+		width:300px;
+	}
+	.mailcontact {
+		width:300px;
+	}
+	.message {
+	width:300px;
+	background-color:white;
+	height:130px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+	}
+	.envoyer {
+		width:300px;
+	}
+	.services {
+		width:310px;
+	}
+	#conseil {
+		width:310px;
+	}
+	.diaporama img {
+		width:100%;
+	}
+	#navigation img {
+		margin-left:100px;
+		margin-top:20px;
+	}
+	.reponse {
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+.reponse2 {
+
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+
+.reponse3 {
+	font-family: 'Marck Script', cursive;
+	text-align:justify;
+	font-size:25px;
+}
+
+.reponse4 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size:25px;
+	text-align:center;
+}
+	
+.formulairenomservice {
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+	
+#logodevis {
+	height:150px;
+	margin-top:0px;
+}
+.produit img{
+    height: 75px;
+    float: left;   
+}
+#presentation h1 {
+	font-family:'Cabin', sans-serif;
+	font-size:20px;
+}
+}
+
+@media (min-width:480px) and (max-width:780px) {
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	min-width:320px;
+}
+#navigation {
+	background-color:white;
+	height:75px;
+}
+.background {
+	background-color:white;
+	height:75px;
+}
+
+.background  ul
+{
+	margin-top:0px;
+	line-height:75px;
+	margin-right:40px;
+}
+
+.hautdusite {
+	background-color:#23252A;
+	height:50px;
+	padding-top:0px;
+	float:right;
+	width:100%;
+}
+header {
+	height:145px;
+}
+
+.tel img {
+	float:left;
+}
+
+.devis {
+	float:right;
+	width:200px;
+	color:white;
+	background-color:#0B9EB7;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:2px;
+}
+.tel {
+	float:right;
+	width:200px;
+	color:white;
+	text-decoration:none;
+	font-family:"Arimo";
+}
+.devis img {
+	float:left;
+	margin-top:10px;
+	height:30px;
+}
+nav {
+	text-align:center;
+}
+.basdepage {
+	float:right;
+	margin-right:150px;
+	width:450px;
+	text-align:center;
+}
+
+.menus li {
+  display:inline;
+  margin-left:45px;
+  color:#804A4A;
+}
+.menus a {
+	text-decoration:none;
+	color:#804A4A;
+	font-size:20px;
+	font-family: 'Cabin', sans-serif;
+	line-height:40px;
+}
+.liens {
+	position:fixed;
+	right:0;
+	display:block;
+	top:310px;
+	margin-right:5px;
+}
+
+.logo {
+	float:left;
+}
+.contact {
+	float:right;
+	display:block;
+}
+
+#logo {
+	float : left;
+	height:100px;
+	margin-top:-30px;
+}
+#conseil {
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	width:450px;
+	text-align:justify;
+}
+.police {
+	color:black;
+	line-height:25px;
+	padding-top:20px;
+	margin-left:25px;
+}
+
+#logoanbginformatique {
+	position:absolute;
+	width:150px;
+	margin:auto;
+}
+
+.services {
+	width:500px;
+	margin-top:25px;
+	min-height:400px;
+	overflow:hidden;
+}
+.services p {
+	text-align:justify;
+}
+
+footer {
+	background-color:#23252A;
+	color:white;
+	float:right;
+	width:100%;
+}
+
+.imageblocnote {
+	width:100%;
+	background-color:rgba(0,0,0,0.8);
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	margin-top:30px;
+	padding-top:1px;
+}
+
+p {
+	font-family: 'Cabin', sans-serif;
+	font-size:17px;
+}
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align:center;
+}
+h2 { 
+	font-family: 'Shadows Into Light', cursive;
+	text-align:center;
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+}
+h4 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.basdepage {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.services li { 
+	font-family: 'Cabin', sans-serif;
+}
+#conseil {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:500px;
+}
+#histoireanbg {
+	font-size: 22px;
+	text-align:justify;
+	color:white;
+	line-height:26px;
+}
+.basdepage img {
+	vertical-align:middle;
+}
+
+.soulignement {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+}
+.soulignement2 {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+	margin-top:2px;
+}
+.soulignement3 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+}
+.soulignement4 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+	margin-top:2px;
+}
+	
+.basdepage a {
+	text-decoration:none;
+	color:white;
+}
+.services {
+	text-align:center;
+}
+.texteservices p {
+	text-align:center;
+}
+.texteservices li {
+	text-align:left;
+}
+.nom {
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+	width:100%;
+}
+.message {
+	background-color:white;
+	height:130px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+	width:100%;
+}
+.envoyer {
+	background-color:#26B99A;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	margin-bottom:20px;
+	margin-top:10px;
+	width:100%;
+}
+
+.mailcontact {
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+	width:100%;
+}
+
+.telsize {
+	font-size:20px;
+}
+
+.gauche {
+	margin-left:auto;
+	margin-right:auto;
+}
+.droite {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.texteservices p {
+	text-align:justify;
+}
+
+
+.diaporama {
+	width:100%;
+}
+.container {
+	margin-left:auto;
+	margin-right:auto;
+}
+.reponse {
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+.reponse2 {
+
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+
+.reponse3 {
+	font-family: 'Marck Script', cursive;
+	text-align:justify;
+	font-size:25px;
+}
+
+.reponse4 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size:25px;
+	text-align:center;
+}
+	
+.formulairenomservice {
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+	
+#logodevis {
+	height:150px;
+	margin-top:0px;
+}
+.produit img{
+    height: 250px;
+    float: left;   
+}
+}
+
+
+
+
+
+@media (min-width:781px) and (max-width:979px) {
+	body {
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	min-width:320px;
+}
+#navigation {
+	background-color:white;
+	height:75px;
+}
+.background {
+	background-color:white;
+	height:75px;
+}
+
+.background  ul
+{
+	margin-top:0px;
+	line-height:75px;
+	margin-right:245px;
+}
+
+.hautdusite {
+	background-color:#23252A;
+	height:50px;
+	padding-top:0px;
+	float:right;
+	width:100%;
+}
+header {
+	height:145px;
+}
+
+.tel img {
+	float:left;
+}
+
+.devis {
+	float:right;
+	width:200px;
+	color:white;
+	background-color:#0B9EB7;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:2px;
+}
+.tel {
+	float:right;
+	width:200px;
+	color:white;
+	text-decoration:none;
+	font-family:"Arimo";
+}
+.devis img {
+	float:left;
+	margin-top:10px;
+	height:30px;
+}
+nav {
+	text-align:center;
+}
+.basdepage {
+	float:right;
+	margin-right:150px;
+	width:450px;
+}
+
+.menus li {
+  display:inline;
+  margin-left:40px;
+  color:#804A4A;
+}
+.menus a {
+	text-decoration:none;
+	color:#804A4A;
+	font-size:20px;
+	font-family: 'Cabin', sans-serif;
+	line-height:40px;
+}
+.liens {
+	position:fixed;
+	right:0;
+	display:block;
+	top:310px;
+	margin-right:5px;
+}
+
+.logo {
+	float:left;
+}
+.contact {
+	float:right;
+	display:block;
+}
+
+#logo {
+	float : left;
+	height:100px;
+	margin-top:-30px;
+}
+#conseil {
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	width:450px;
+	text-align:justify;
+}
+.police {
+	color:black;
+	line-height:25px;
+	padding-top:20px;
+	margin-left:25px;
+}
+
+#logoanbginformatique {
+	position:absolute;
+	width:150px;
+	margin:auto;
+}
+
+.services {
+	width:545px;
+	margin-top:25px;
+	min-height:400px;
+	overflow:hidden;
+}
+.services p {
+	text-align:justify;
+}
+
+footer {
+	background-color:#23252A;
+	color:white;
+	float:right;
+	width:100%;
+}
+
+.imageblocnote {
+	width:100%;
+	background-color:rgba(0,0,0,0.8);
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	margin-top:35px;
+	padding-top:1px;
+}
+
+p {
+	font-family: 'Cabin', sans-serif;
+}
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align:center;
+}
+h2 { 
+	font-family: 'Shadows Into Light', cursive;
+	text-align:center;
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+}
+h4 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.basdepage {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.services li { 
+	font-family: 'Cabin', sans-serif;
+}
+#conseil {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+#histoireanbg {
+	font-size: 20px;
+	text-align:justify;
+	color:white;
+	line-height:26px;
+}
+.basdepage img {
+	vertical-align:middle;
+}
+
+.soulignement {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+}
+.soulignement2 {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+	margin-top:2px;
+}
+.soulignement3 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+}
+.soulignement4 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+	margin-top:2px;
+}
+	
+.basdepage a {
+	text-decoration:none;
+	color:white;
+}
+.services {
+	text-align:center;
+}
+.texteservices p {
+	text-align:left;
+}
+.texteservices li {
+	text-align:left;
+}
+.nom {
+	width:100%;
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.message {
+	width:100%;
+	background-color:white;
+	height:130px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.envoyer {
+	width:100%;
+	background-color:#26B99A;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	margin-bottom:20px;
+	margin-top:10px;
+}
+
+.mailcontact {
+	width:100%;
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.telsize {
+	font-size:20px;
+}
+
+.gauche {
+	margin:auto;
+}
+.droite {
+	margin:auto;
+}
+
+.texteservices p {
+	text-align:justify;
+}
+
+
+.diaporama {
+	width:100%;
+}
+.container {
+	margin-left:auto;
+	margin-right:auto;
+}
+.reponse {
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+.reponse2 {
+
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+
+.reponse3 {
+	font-family: 'Marck Script', cursive;
+	text-align:justify;
+	font-size:25px;
+}
+
+.reponse4 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size:25px;
+	text-align:center;
+}
+	
+.formulairenomservice {
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+	
+#logodevis {
+	height:150px;
+	margin-top:0px;
+}
+.produit img{
+    height: 250px;
+    float: left;   
+}
+#presentation h1{
+	font-family: 'Cabin', sans-serif;	
+	margin-top:50px;
+	padding-bottom:50px;
+}
+
+.produit{
+    width: 100%;
+    height: 250px;
+    border: solid 2px #804A4A;
+    margin-bottom: 10px;
+}
+.produit img{
+    height: 250px;
+	width: 250px;
+    float: left;   
+}
+.produit h3{
+    padding-top: 50px;
+}
+.produit p{
+    max-height: 100px; 
+    max-width: 800px;
+    overflow: hidden;
+
+}
+.produit h4{
+    float: right;
+    margin-top: 80px;
+    margin-right: 20px;
+}
+#connexion_admin
+{
+	margin-top:50px;
+	height:170px;
+	text-align:center;
+}
+
+#connexion_admin .nom
+{
+	width:200px;
+}
+
+#connexion_admin .envoyer
+{
+	width:200px;
+}
+.panier img {
+	margin-top:7px;
+	height:30px;
+	padding-left:10px;
+}
+.panier {
+	float:right;
+	width:140px;
+	color:white;
+	background-color:#0B9EB7;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:2px;
+}
+.panier2 {
+	float:right;
+	width:140px;
+	color:white;
+	background-color:#23252A;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:-4px;
+}
+.panier p {
+	margin-top:-38px;
+	padding-left:51px;
+	text-transform:uppercase;
+	letter-spacing:0.2em;
+	transition:all .15s;
+	font-size:15px;
+	font-family:'Roboto', sans-serif;
+}
+.input {
+	float:right;
+	width:50px;
+	background:#262526;
+	color:white;
+	border-radius:5px;
+	box-shadow:none;
+	height:25px;
+	text-align:center;
+	outline:0;
+	cursor:pointer;
+	line-height:normal;
+	font-family:'Roboto', sans-serif;
+	box-sizing:border-box;
+	border:none;
+	margin-right:5px;
+	margin-top:40px;
+}
+.ajouterpanier {
+	float:right;
+	opacity:.5;
+	background:#262526;
+	color:#fff;
+	vertical-align:middle;
+	border:none;
+	text-shadow:none;
+	box-shadow:none;
+	text-transform:uppercase;
+	transition:all .15s;
+	border-radius:3px;
+	font-family:'Roboto', sans-serif;
+	height:25px;
+	margin-right:20px;
+	margin-top:42px;
+	text-decoration:none;
+	padding-left:5px;
+	width:70px;
+	height:20px;
+	font-size:15px;
+	}
+#presentationpanier h1 {
+	font-family: 'Cabin', sans-serif;	
+	padding-bottom:50px;
+}
+.del img {
+	width:21px;
+	height:20px;
+	float:right;
+	margin-top:70px;
+	margin-right:-85px;
+}
+
+
+#list_produit h4{
+    float: right;
+    margin-top: 70px;
+    margin-right: 45px;
+}
+
+.imageproduit img {
+	width:250px;
+	height:250px;
+
+}
+.produit span{
+    padding-top: 50px;
+}
+#presentation1 h1{
+	font-family: 'Cabin', sans-serif;	
+	padding-bottom:50px;
+}
+.panier2 span{ 
+	color:#F4B459;
+}
+.inputrecalcul {
+	opacity:.5;
+	background:#262526;
+	color:#fff;
+	vertical-align:middle;
+	border:none;
+	text-shadow:none;
+	box-shadow:none;
+	text-transform:uppercase;
+	transition:all .15s;
+	border-radius:3px;
+	font-family:'Roboto', sans-serif;
+	height:25px;
+	text-decoration:none;
+	padding-left:5px;
+	width:100px;
+	height:20px;
+	font-size:15px;
+	}
+#total  {
+	float:right;
+}
+.inputqte {
+	width:50px;
+	background:#262526;
+	color:white;
+	border-radius:5px;
+	box-shadow:none;
+	height:25px;
+	text-align:center;
+	outline:0;
+	cursor:pointer;
+	line-height:normal;
+	font-family:'Roboto', sans-serif;
+	box-sizing:border-box;
+	border:none;
+}
+.rendez_vous {
+	display: inline-block;
+	margin-left:545px;
+	text-decoration:none;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	margin-top:15px;
+}
+.rendez_vous a {
+	margin-top:10px;
+}
+.seconnecter {
+	margin-left: 145px;
+    margin-top: -20px;
+	font-family:'Roboto', sans-serif;
+	text-decoration:none;
+}
+.seconnecter a {
+	color: white;
+	text-decoration:none;
+}
+.seconnecter2 {
+	display:inline-block;
+	margin-top:15px;
+	margin-left: 145px;
+	font-family:'Roboto', sans-serif;
+	text-decoration:none;
+}
+.seconnecter2 a {
+	color: white;
+	text-decoration:none;
+}
+.rendez_vous2 {
+	display: inline-block;
+	margin-left:180px;
+	text-decoration:none;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	margin-top:15px;
+}
+.monpanier {
+	margin-left:245px;
+}
+}
+@media (min-width:980px) and (max-width:1024px) {
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	min-width:320px;
+}
+#navigation {
+	background-color:white;
+	height:75px;
+}
+.background {
+	background-color:white;
+	height:75px;
+}
+
+.background  ul
+{
+	margin-top:0px;
+	line-height:85px;
+	margin-right:45px;
+}
+
+.hautdusite {
+	background-color:#23252A;
+	height:50px;
+	padding-top:0px;
+	float:right;
+	width:100%;
+}
+header {
+	height:145px;
+}
+
+.tel img {
+	float:left;
+}
+
+.devis {
+	float:right;
+	width:200px;
+	color:white;
+	background-color:#0B9EB7;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:2px;
+}
+.tel {
+	float:right;
+	width:200px;
+	color:white;
+	text-decoration:none;
+	font-family:"Arimo";
+}
+.devis img {
+	float:left;
+	margin-top:10px;
+	height:30px;
+}
+nav {
+	text-align:center;
+	margin-right:100px;
+}
+.basdepage {
+	text-align:center;
+	margin:auto;
+	width:450px;
+}
+
+.menus li {
+  display:inline;
+  margin-left:50px;
+  color:#804A4A;
+}
+.menus a {
+	text-decoration:none;
+	color:#804A4A;
+	font-size:20px;
+	font-family: 'Cabin', sans-serif;
+	line-height:40px;
+}
+.liens {
+	position:fixed;
+	right:0;
+	display:block;
+	top:310px;
+	margin-right:5px;
+}
+
+.logo {
+	float:left;
+}
+.contact {
+	float:right;
+	display:block;
+}
+
+#logo {
+	float : left;
+	height:100px;
+	margin-top:-30px;
+}
+#conseil {
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	width:450px;
+	text-align:justify;
+}
+.police {
+	color:black;
+	line-height:25px;
+	padding-top:20px;
+	margin-left:2px;
+}
+
+#logoanbginformatique {
+	position:absolute;
+	width:150px;
+	margin:auto;
+}
+
+.services {
+	width:545px;
+	margin-top:25px;
+	min-height:400px;
+	overflow:hidden;
+	margin:auto;
+}
+.services p {
+	text-align:justify;
+}
+
+footer {
+	background-color:#23252A;
+	color:white;
+	float:right;
+	width:100%;
+}
+
+.imageblocnote {
+	width:100%;
+	background-color:rgba(0,0,0,0.8);
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	margin-top:50px;
+	padding-top:20px;
+}
+
+p {
+	font-family: 'Cabin', sans-serif;
+}
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align:center;
+}
+h2 { 
+	font-family: 'Shadows Into Light', cursive;
+	text-align:center;
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+}
+h4 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.basdepage {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.services li { 
+	font-family: 'Cabin', sans-serif;
+}
+#conseil {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:545px;
+}
+#histoireanbg {
+	font-size: 22px;
+	text-align:justify;
+	color:white;
+	line-height:26px;
+}
+.basdepage img {
+	vertical-align:middle;
+}
+
+.soulignement {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+}
+.soulignement2 {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+	margin-top:2px;
+}
+.soulignement3 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+}
+.soulignement4 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+	margin-top:2px;
+}
+	
+.basdepage a {
+	text-decoration:none;
+	color:white;
+}
+.services {
+	text-align:center;
+}
+.texteservices p {
+	text-align:left;
+}
+.texteservices li {
+	text-align:left;
+}
+.nom {
+	width:100%;
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.message {
+	width:100%;
+	background-color:white;
+	height:130px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.envoyer {
+	width:100%;
+	background-color:#26B99A;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	margin-bottom:20px;
+	margin-top:10px;
+}
+
+.mailcontact {
+	width:100%;
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.telsize {
+	font-size:20px;
+}
+
+.police p {
+	text-align:justify;
+}
+
+.texteservices p {
+	text-align:justify;
+}
+
+
+.diaporama {
+	width:100%;
+}
+.container {
+	margin-left:auto;
+	margin-right:auto;
+
+}
+.reponse {
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+.reponse2 {
+
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+
+.reponse3 {
+	font-family: 'Marck Script', cursive;
+	text-align:justify;
+	font-size:25px;
+}
+
+.reponse4 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size:25px;
+	text-align:center;
+}
+	
+.formulairenomservice {
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+	
+#logodevis {
+	height:150px;
+	margin-top:0px;
+}
+.produit img{
+    height: 250px;
+    float: left;   
+}
+#presentation h1{
+	font-family: 'Cabin', sans-serif;	
+	margin-top:50px;
+	padding-bottom:50px;
+}
+
+.produit{
+    width: 100%;
+    height: 450px;
+    border: solid 2px #804A4A;
+    margin-bottom: 10px;
+}
+.produit img{
+    height: 250px;
+	width: 250px;
+    float: left;   
+}
+.produit h3{
+    padding-top: 50px;
+}
+.produit p{
+    max-height: 100px; 
+    max-width: 800px;
+    overflow: hidden;
+
+}
+.produit h4{
+    float: right;
+    margin-top: 80px;
+    margin-right: 20px;
+}
+#connexion_admin
+{
+	margin-top:50px;
+	height:170px;
+	text-align:center;
+}
+
+#connexion_admin .nom
+{
+	width:200px;
+}
+
+#connexion_admin .envoyer
+{
+	width:200px;
+}
+.panier img {
+	margin-top:7px;
+	height:30px;
+	padding-left:10px;
+}
+.panier {
+	float:right;
+	width:140px;
+	color:white;
+	background-color:#0B9EB7;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:2px;
+}
+.panier2 {
+	float:right;
+	width:140px;
+	color:white;
+	background-color:#23252A;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:-4px;
+}
+.panier p {
+	margin-top:-38px;
+	padding-left:51px;
+	text-transform:uppercase;
+	letter-spacing:0.2em;
+	transition:all .15s;
+	font-size:15px;
+	font-family:'Roboto', sans-serif;
+}
+.input {
+	float:right;
+	width:50px;
+	background:#262526;
+	color:white;
+	border-radius:5px;
+	box-shadow:none;
+	height:25px;
+	text-align:center;
+	outline:0;
+	cursor:pointer;
+	line-height:normal;
+	font-family:'Roboto', sans-serif;
+	box-sizing:border-box;
+	border:none;
+	margin-right:5px;
+	margin-top:40px;
+}
+.ajouterpanier {
+	float:right;
+	opacity:.5;
+	background:#262526;
+	color:#fff;
+	vertical-align:middle;
+	border:none;
+	text-shadow:none;
+	box-shadow:none;
+	text-transform:uppercase;
+	transition:all .15s;
+	border-radius:3px;
+	font-family:'Roboto', sans-serif;
+	height:25px;
+	margin-right:20px;
+	margin-top:42px;
+	text-decoration:none;
+	padding-left:5px;
+	width:70px;
+	height:20px;
+	font-size:15px;
+	}
+#presentationpanier h1 {
+	font-family: 'Cabin', sans-serif;	
+	padding-bottom:50px;
+}
+.del img {
+	width:21px;
+	height:20px;
+	float:right;
+	margin-top:70px;
+	margin-right:-85px;
+}
+
+
+#list_produit h4{
+    float: right;
+    margin-top: 70px;
+    margin-right: 45px;
+}
+
+.imageproduit img {
+	width:250px;
+	height:250px;
+
+}
+.produit span{
+    padding-top: 50px;
+}
+#presentation1 h1{
+	font-family: 'Cabin', sans-serif;	
+	padding-bottom:50px;
+}
+.panier2 span{ 
+	color:#F4B459;
+}
+.inputrecalcul {
+	opacity:.5;
+	background:#262526;
+	color:#fff;
+	vertical-align:middle;
+	border:none;
+	text-shadow:none;
+	box-shadow:none;
+	text-transform:uppercase;
+	transition:all .15s;
+	border-radius:3px;
+	font-family:'Roboto', sans-serif;
+	height:25px;
+	text-decoration:none;
+	padding-left:5px;
+	width:100px;
+	height:20px;
+	font-size:15px;
+	}
+#total  {
+	float:right;
+}
+.inputqte {
+	width:50px;
+	background:#262526;
+	color:white;
+	border-radius:5px;
+	box-shadow:none;
+	height:25px;
+	text-align:center;
+	outline:0;
+	cursor:pointer;
+	line-height:normal;
+	font-family:'Roboto', sans-serif;
+	box-sizing:border-box;
+	border:none;
+}
+.rendez_vous {
+	display: inline-block;
+	margin-left:545px;
+	text-decoration:none;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	margin-top:15px;
+}
+.rendez_vous a {
+	margin-top:10px;
+}
+.seconnecter {
+	margin-left: 145px;
+    margin-top: -20px;
+	font-family:'Roboto', sans-serif;
+	text-decoration:none;
+}
+.seconnecter a {
+	color: white;
+	text-decoration:none;
+}
+.seconnecter2 {
+	display:inline-block;
+	margin-top:15px;
+	margin-left: 145px;
+	font-family:'Roboto', sans-serif;
+	text-decoration:none;
+}
+.seconnecter2 a {
+	color: white;
+	text-decoration:none;
+}
+.rendez_vous2 {
+	display: inline-block;
+	margin-left:180px;
+	text-decoration:none;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	margin-top:15px;
+}
+.monpanier {
+	margin-left:245px;
+}
+.apiProducts {
+	width: 645px;
+	border: solid 2px #804A3F;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 150px;
+}
+.apiForm .nom {
+	width: 275px;
+	background-color: white;
+	height: 50px;
+	border-radius: 3px;
+	border: 1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.apiForm input {
+	padding-left:10px;
+	margin-left: 775px;
+}
+.send {
+	background-color: #26B99A;
+    height: 50px;
+    border-radius: 3px;
+    border: 1px solid #d8d8d8;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width:150px;
+}
+}
+
+
+@media (min-width:1025px) {
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	min-width:320px;
+}
+#navigation {
+	background-color:white;
+	height:75px;
+}
+.background {
+	background-color:white;
+	height:75px;
+}
+
+.background  ul
+{
+	margin-top:0px;
+	line-height:75px;
+	margin-right:30px;
+}
+
+.hautdusite {
+	background-color:#23252A;
+	height:50px;
+	padding-top:0px;
+	float:right;
+	width:100%;
+}
+header {
+	height:145px;
+}
+
+.tel img {
+	float:left;
+}
+
+.devis {
+	float:right;
+	width:200px;
+	color:white;
+	background-color:#0B9EB7;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:2px;
+}
+.tel {
+	float:right;
+	width:200px;
+	color:white;
+	text-decoration:none;
+	font-family:"Arimo";
+}
+.devis img {
+	float:left;
+	margin-top:10px;
+	height:30px;
+}
+nav {
+	text-align:center;
+	margin-right:100px;
+}
+.basdepage {
+	margin:auto;
+	text-align:center;
+	width:450px;
+}
+
+.menus li {
+  display:inline;
+  margin-left:50px;
+  color:#804A4A;
+}
+.menus a {
+	text-decoration:none;
+	color:#804A4A;
+	font-size:20px;
+	font-family: 'Cabin', sans-serif;
+	line-height:40px;
+}
+.liens {
+	position:fixed;
+	right:0;
+	display:block;
+	top:310px;
+	margin-right:5px;
+}
+
+.logo {
+	float:left;
+}
+.contact {
+	float:right;
+	display:block;
+}
+
+#logo {
+	float : left;
+	height:100px;
+	margin-top:-30px;
+}
+#conseil {
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	width:450px;
+	text-align:justify;
+}
+.police {
+	color:black;
+	line-height:25px;
+	padding-top:20px;
+	margin-left:2px;
+}
+
+#logoanbginformatique {
+	position:absolute;
+	width:150px;
+	margin:auto;
+}
+
+.services {
+	width:545px;
+	margin-top:25px;
+	min-height:400px;
+	overflow:hidden;
+}
+.services p {
+	text-align:justify;
+}
+
+footer {
+	background-color:#23252A;
+	color:white;
+	float:right;
+	width:100%;
+	margin-top:20px;
+}
+
+.imageblocnote {
+	width:100%;
+	background-color:rgba(0,0,0,0.8);
+	height:415px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	margin-top:50px;
+	padding-top:5px;
+}
+
+p {
+	font-family: 'Cabin', sans-serif;
+}
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align:center;
+}
+h2 { 
+	font-family: 'Shadows Into Light', cursive;
+	text-align:center;
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+}
+h4 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.basdepage {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.services li { 
+	font-family: 'Cabin', sans-serif;
+}
+#conseil {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+#histoireanbg {
+	font-size: 22px;
+	text-align:justify;
+	color:white;
+	line-height:26px;
+	padding-left:25px;
+	padding-right:25px;
+}
+.basdepage img {
+	vertical-align:middle;
+}
+
+.soulignement {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+}
+.soulignement2 {
+	height:1px;
+	width:440px;
+	background-color:black;
+	margin:auto;
+	margin-top:2px;
+}
+.soulignement3 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+}
+.soulignement4 {
+	height:1px;
+	width:630px;
+	background-color:white;
+	margin:auto;
+	margin-top:2px;
+}
+	
+.basdepage a {
+	text-decoration:none;
+	color:white;
+}
+.services {
+	text-align:center;
+}
+.texteservices p {
+	text-align:left;
+}
+.texteservices li {
+	text-align:left;
+}
+.nom {
+	width:1200px;
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.message {
+	width:1200px;
+	background-color:white;
+	height:130px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.envoyer {
+	width:1200px;
+	background-color:#26B99A;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	margin-bottom:20px;
+	margin-top:10px;
+}
+
+.mailcontact {
+	width:1200px;
+	background-color:white;
+	height:50px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.telsize {
+	font-size:20px;
+}
+
+.gauche {
+	float:left;
+}
+.droite {
+	float:right;
+}
+
+.texteservices p {
+	text-align:justify;
+}
+
+
+.diaporama {
+	width:100%;
+}
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+}
+
+.reponse {
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+.reponse2 {
+
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+
+
+.reponse3 {
+	font-family: 'Marck Script', cursive;
+	text-align:justify;
+	font-size:25px;
+}
+
+.reponse4 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size:25px;
+	text-align:center;
+}
+	
+.formulairenomservice {
+	font-family: 'Cabin', sans-serif;
+	text-align:justify;
+}
+	
+#logodevis {
+	height:150px;
+	margin-top:0px;
+}
+
+.produit img{
+    height: 250px;
+    float: left;   
+}
+
+#presentation h1{
+	font-family: 'Cabin', sans-serif;	
+	margin-top:50px;
+	padding-bottom:50px;
+}
+
+.produit{
+    width: 100%;
+    height: 250px;
+    border: solid 2px #804A4A;
+    margin-bottom: 10px;
+}
+.produit img{
+    height: 250px;
+	width: 250px;
+    float: left;   
+}
+.produit h3{
+    padding-top: 50px;
+	padding-right:235px;
+}
+.produit p{
+    max-height: 100px; 
+    max-width: 800px;
+    overflow: hidden;
+
+}
+.produit h4{
+    float: right;
+    margin-top: 80px;
+    margin-right: 20px;
+}
+#connexion_admin
+{
+	margin-top:50px;
+	height:170px;
+	text-align:center;
+	width:100%;
+}
+
+#connexion_admin .nom
+{
+	width:200px;
+}
+
+#connexion_admin .envoyer
+{
+	width:200px;
+}
+.panier img {
+	margin-top:7px;
+	height:30px;
+	padding-left:10px;
+}
+.panier {
+	float:right;
+	width:140px;
+	color:white;
+	background-color:#0B9EB7;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:2px;
+}
+.panier2 {
+	float:right;
+	width:140px;
+	color:white;
+	background-color:#23252A;
+	border-radius: 6px 6px 6px 6px;
+	text-decoration:none;
+	font-family:"Arimo";
+	height:46px;
+	margin-top:-4px;
+}
+.panier p {
+	margin-top:-38px;
+	padding-left:51px;
+	text-transform:uppercase;
+	letter-spacing:0.2em;
+	transition:all .15s;
+	font-size:15px;
+	font-family:'Roboto', sans-serif;
+}
+.input {
+	float:right;
+	width:50px;
+	background:#262526;
+	color:white;
+	border-radius:5px;
+	box-shadow:none;
+	height:25px;
+	text-align:center;
+	outline:0;
+	cursor:pointer;
+	line-height:normal;
+	font-family:'Roboto', sans-serif;
+	box-sizing:border-box;
+	border:none;
+	margin-right:5px;
+	margin-top:40px;
+}
+.ajouterpanier {
+	float:right;
+	opacity:.5;
+	background:#262526;
+	color:#fff;
+	vertical-align:middle;
+	border:none;
+	text-shadow:none;
+	box-shadow:none;
+	text-transform:uppercase;
+	transition:all .15s;
+	border-radius:3px;
+	font-family:'Roboto', sans-serif;
+	height:25px;
+	margin-right:20px;
+	margin-top:42px;
+	text-decoration:none;
+	padding-left:5px;
+	width:70px;
+	height:20px;
+	font-size:15px;
+	}
+#presentationpanier h1 {
+	font-family: 'Cabin', sans-serif;	
+	padding-bottom:50px;
+}
+.del img {
+	width:21px;
+	height:20px;
+	float:right;
+	margin-top:42px;
+	margin-right:-85px;
+}
+
+
+#list_produit h4{
+    float: right;
+    margin-top: 42px;
+    margin-right: 45px;
+}
+
+.imageproduit img {
+	width:250px;
+	height:250px;
+
+}
+.produit span{
+    padding-top: 50px;
+}
+#presentation1 h1{
+	font-family: 'Cabin', sans-serif;	
+	padding-bottom:50px;
+}
+.panier2 span{ 
+	color:#F4B459;
+}
+.inputrecalcul {
+	opacity:.5;
+	background:#262526;
+	color:#fff;
+	vertical-align:middle;
+	border:none;
+	text-shadow:none;
+	box-shadow:none;
+	text-transform:uppercase;
+	transition:all .15s;
+	border-radius:3px;
+	font-family:'Roboto', sans-serif;
+	height:25px;
+	text-decoration:none;
+	padding-left:5px;
+	width:100px;
+	height:20px;
+	font-size:15px;
+	}
+#total  {
+	float:right;
+}
+.inputqte {
+	width:50px;
+	background:#262526;
+	color:white;
+	border-radius:5px;
+	box-shadow:none;
+	height:25px;
+	text-align:center;
+	outline:0;
+	cursor:pointer;
+	line-height:normal;
+	font-family:'Roboto', sans-serif;
+	box-sizing:border-box;
+	border:none;
+	padding-left:0px;
+}
+.rendez_vous {
+	display: inline-block;
+	margin-left:545px;
+	text-decoration:none;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	margin-top:15px;
+}
+.rendez_vous a {
+	margin-top:10px;
+}
+.rendez_vous:hover {
+	color: #804A4A;
+}
+.seconnecter {
+	margin-left: 145px;
+    margin-top: -20px;
+	font-family:'Roboto', sans-serif;
+	text-decoration:none;
+}
+.seconnecter a {
+	color: white;
+	text-decoration:none;
+}
+.seconnecter a:hover {
+	color: #804A4A;
+	text-decoration:none;
+}
+.seconnecter2 a:hover {
+	color: #804A4A;
+	text-decoration:none;
+}
+.seconnecter3 a:hover {
+	color: #804A4A;
+	text-decoration:none;
+}
+.seconnecter2 {
+	display:inline-block;
+	margin-top:15px;
+	margin-left: 145px;
+	font-family:'Roboto', sans-serif;
+	text-decoration:none;
+}
+.seconnecter2 a {
+	color: white;
+	text-decoration:none;
+}
+.rendez_vous2 {
+	display: inline-block;
+	margin-left:180px;
+	text-decoration:none;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	margin-top:15px;
+}
+.monpanier {
+	margin-left:245px;
+}
+
+#rdvnonco h2 {
+	text-align: left;
+	font-family: 'Cabin', sans-serif;
+}
+#presentation3 h1{
+	font-family: 'Cabin', sans-serif;	
+	text-align:left;
+}
+.rendez_vous3 {
+	display: inline-block;
+	margin-left:260px;
+	text-decoration:none;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	margin-top:15px;
+}
+.seconnecter3 {
+	margin-left: 145px;
+	font-family:'Roboto', sans-serif;
+	text-decoration:none;
+}
+.seconnecter3 a {
+	color: white;
+	text-decoration:none;
+}
+#connexion_admin a {
+	font-family: 'Cabin', sans-serif;
+}
+#connexion_admin label {
+	font-family: 'Cabin', sans-serif;
+}
+#mesRdvs h2 {
+	text-align:left;
+}
+#form h2 {
+	text-align:left;
+}
+#formrdv .envoyer {
+	width:300px;
+	font-size:17px;
+}
+#formrdv .nom {
+	width:150px;
+}
+#formrdv .descript {
+	width:300px;
+	background-color:white;
+	height:100px;
+	border-radius:3px;
+	border:1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.navPage {
+	height: 40px;
+}
+.navPage li {
+	text-decoration:none;
+	display:inline;
+	list-style-type: none;
+    line-height: 40px;
+    margin-right: 10px;
+}
+.navPage ul {
+	text-align:center;
+}
+.navPage a {
+	text-decoration:none;
+	color:black;
+	font-size:23px;
+}
+.navPage li a:hover{
+    text-decoration: none;
+    color: rgb(137, 211, 128);
+}
+.footer2 {
+	margin-top:51px;
+}
+#stats table{
+    border: solid 2px #804A4A;
+    margin-bottom: 10px;
+	text-align:center;
+	border-collapse: collapse;
+	width:100%;
+}
+#stats td{
+    border: solid 1px #804A4A;
+    margin-bottom: 0px;
+	font-family:'Cabin', sans-serif;
+	height:50px;
+}
+#stats tr{
+    width: 100%; 
+    border: solid 2px #804A4A;
+}
+.connectezvous {
+	font-family: 'Cabin', sans-serif;	
+	padding-left:570px;
+	padding-top:20px;
+}
+.commande {
+	font-family:'Cabin', sans-serif;
+	text-decoration:none;
+	margin-left:520px;
+	color:black;
+}
+.panier :hover {
+	color:#804A4A;
+}
+.retour {
+	font-family: 'Cabin', sans-serif;
+}
+input {
+	padding-left:10px;
+}
+textarea {
+	padding-left:10px;
+	padding-top:10px;
+}
+#footstats {
+	background-color: #23252A;
+	color: white;
+	float: right;
+	width: 100%;
+	margin-top: 31px;
+}
+.apiProducts {
+	width: 645px;
+	border: solid 2px #804A3F;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 150px;
+}
+.apiProducts img {
+	height:150px;
+	float:left;
+}
+.apiForm .nom {
+	width: 275px;
+	background-color: white;
+	height: 50px;
+	border-radius: 3px;
+	border: 1px solid #d8d8d8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.apiForm input {
+	padding-left:10px;
+	margin-left: 775px;
+}
+.send {
+	background-color: #26B99A;
+    height: 50px;
+    border-radius: 3px;
+    border: 1px solid #d8d8d8;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+}

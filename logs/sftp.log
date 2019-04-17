@@ -1,0 +1,887 @@
+May 14 16:50:28 10.71.51.12 u93486425 Connection from 10.71.51.12 port 11166 on 217.160.63.88 port 22
+May 14 16:50:30 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 11166 ssh2
+May 14 16:50:31 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 11166
+May 14 16:50:31 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 16:51:23 10.71.51.12 u93486425 Connection from 10.71.51.12 port 37398 on 217.160.63.88 port 22
+May 14 16:51:24 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 37398 ssh2
+May 14 16:51:24 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 37398
+May 14 16:51:24 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 16:51:26 10.71.51.12 u93486425 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 16:51:26 10.71.51.12 u93486425 close "/index.php" bytes read 0 written 12077
+May 14 16:51:26 10.71.51.12 u93486425 [10.71.51.12|put|0|12077|0|0|0|2f696e6465782e706870|]
+May 14 16:51:52 10.71.51.12 u93486425 open "/style/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 16:51:52 10.71.51.12 u93486425 close "/style/style.css" bytes read 0 written 16694
+May 14 16:51:52 10.71.51.12 u93486425 [10.71.51.12|put|0|16694|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 16:52:52 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 16:52:52 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 16:54:25 10.71.51.12 u93486425 Connection from 10.71.51.12 port 47390 on 217.160.63.88 port 22
+May 14 16:54:26 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 47390 ssh2
+May 14 16:54:25 10.71.51.12 u93486425 Connection from 10.71.51.12 port 47382 on 217.160.63.88 port 22
+May 14 16:54:26 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 47382 ssh2
+May 14 16:54:26 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 47390
+May 14 16:54:26 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 47382
+May 14 16:54:26 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 16:54:26 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 16:54:27 10.71.51.12 u93486425 open "/accueil.html" flags READ mode 0666
+May 14 16:54:27 10.71.51.12 u93486425 open "/favicon.ico" flags READ mode 0666
+May 14 16:54:27 10.71.51.12 u93486425 close "/accueil.html" bytes read 383 written 0
+May 14 16:54:27 10.71.51.12 u93486425 [10.71.51.12|get|0|383|0|0|0|2f6163637565696c2e68746d6c|]
+May 14 16:54:27 10.71.51.12 u93486425 close "/favicon.ico" bytes read 1406 written 0
+May 14 16:54:27 10.71.51.12 u93486425 [10.71.51.12|get|0|1406|0|0|0|2f66617669636f6e2e69636f|]
+May 14 16:54:27 10.71.51.12 u93486425 open "/index.php" flags READ mode 0666
+May 14 16:54:27 10.71.51.12 u93486425 open "/copie/index.php" flags READ mode 0666
+May 14 16:54:27 10.71.51.12 u93486425 close "/index.php" bytes read 12077 written 0
+May 14 16:54:27 10.71.51.12 u93486425 [10.71.51.12|get|0|12077|0|0|0|2f696e6465782e706870|]
+May 14 16:54:27 10.71.51.12 u93486425 close "/copie/index.php" bytes read 11995 written 0
+May 14 16:54:27 10.71.51.12 u93486425 [10.71.51.12|get|0|11995|0|0|0|2f636f7069652f696e6465782e706870|]
+May 14 16:54:27 10.71.51.12 u93486425 sent status No such file
+May 14 16:54:27 10.71.51.12 u93486425 open "/copie/style.css" flags READ mode 0666
+May 14 16:54:28 10.71.51.12 u93486425 open "/images/telephone.png" flags READ mode 0666
+May 14 16:54:28 10.71.51.12 u93486425 close "/copie/style.css" bytes read 4629 written 0
+May 14 16:54:28 10.71.51.12 u93486425 [10.71.51.12|get|1|4629|0|0|0|2f636f7069652f7374796c652e637373|]
+May 14 16:54:28 10.71.51.12 u93486425 close "/images/telephone.png" bytes read 920 written 0
+May 14 16:54:28 10.71.51.12 u93486425 [10.71.51.12|get|0|920|0|0|0|2f696d616765732f74656c6570686f6e652e706e67|]
+May 14 16:54:28 10.71.51.12 u93486425 open "/images/settings.png" flags READ mode 0666
+May 14 16:54:28 10.71.51.12 u93486425 open "/images/smartphone.png" flags READ mode 0666
+May 14 16:54:28 10.71.51.12 u93486425 close "/images/settings.png" bytes read 1505 written 0
+May 14 16:54:28 10.71.51.12 u93486425 [10.71.51.12|get|0|1505|0|0|0|2f696d616765732f73657474696e67732e706e67|]
+May 14 16:54:28 10.71.51.12 u93486425 close "/images/smartphone.png" bytes read 1065 written 0
+May 14 16:54:28 10.71.51.12 u93486425 [10.71.51.12|get|0|1065|0|0|0|2f696d616765732f736d61727470686f6e652e706e67|]
+May 14 16:54:28 10.71.51.12 u93486425 open "/images/securite.png" flags READ mode 0666
+May 14 16:54:28 10.71.51.12 u93486425 open "/images/rouedent.png" flags READ mode 0666
+May 14 16:54:28 10.71.51.12 u93486425 close "/images/securite.png" bytes read 1360 written 0
+May 14 16:54:28 10.71.51.12 u93486425 [10.71.51.12|get|0|1360|0|0|0|2f696d616765732f73656375726974652e706e67|]
+May 14 16:54:28 10.71.51.12 u93486425 close "/images/rouedent.png" bytes read 2188 written 0
+May 14 16:54:28 10.71.51.12 u93486425 [10.71.51.12|get|0|2188|0|0|0|2f696d616765732f726f756564656e742e706e67|]
+May 14 16:54:28 10.71.51.12 u93486425 open "/images/ordinateurrr.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 open "/images/nvidia.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 close "/images/nvidia.png" bytes read 11135 written 0
+May 14 16:54:29 10.71.51.12 u93486425 [10.71.51.12|get|0|11135|0|0|0|2f696d616765732f6e76696469612e706e67|]
+May 14 16:54:29 10.71.51.12 u93486425 open "/images/msi.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 close "/images/ordinateurrr.png" bytes read 858149 written 0
+May 14 16:54:29 10.71.51.12 u93486425 [10.71.51.12|get|1|858149|0|0|0|2f696d616765732f6f7264696e617465757272722e706e67|]
+May 14 16:54:29 10.71.51.12 u93486425 open "/images/mailbas.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 close "/images/msi.png" bytes read 9369 written 0
+May 14 16:54:29 10.71.51.12 u93486425 [10.71.51.12|get|0|9369|0|0|0|2f696d616765732f6d73692e706e67|]
+May 14 16:54:29 10.71.51.12 u93486425 open "/images/mail.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 close "/images/mailbas.png" bytes read 725 written 0
+May 14 16:54:29 10.71.51.12 u93486425 [10.71.51.12|get|0|725|0|0|0|2f696d616765732f6d61696c6261732e706e67|]
+May 14 16:54:29 10.71.51.12 u93486425 open "/images/loupe.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 close "/images/mail.png" bytes read 1984 written 0
+May 14 16:54:29 10.71.51.12 u93486425 [10.71.51.12|get|0|1984|0|0|0|2f696d616765732f6d61696c2e706e67|]
+May 14 16:54:29 10.71.51.12 u93486425 open "/images/logoanbginformatique.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 close "/images/loupe.png" bytes read 1890 written 0
+May 14 16:54:29 10.71.51.12 u93486425 [10.71.51.12|get|0|1890|0|0|0|2f696d616765732f6c6f7570652e706e67|]
+May 14 16:54:29 10.71.51.12 u93486425 open "/images/localisationbas.png" flags READ mode 0666
+May 14 16:54:29 10.71.51.12 u93486425 close "/images/logoanbginformatique.png" bytes read 2035 written 0
+May 14 16:54:29 10.71.51.12 u93486425 [10.71.51.12|get|0|2035|0|0|0|2f696d616765732f6c6f676f616e6267696e666f726d6174697175652e706e67|]
+May 14 16:54:30 10.71.51.12 u93486425 open "/images/localisation.png" flags READ mode 0666
+May 14 16:54:30 10.71.51.12 u93486425 close "/images/localisationbas.png" bytes read 1351 written 0
+May 14 16:54:30 10.71.51.12 u93486425 [10.71.51.12|get|1|1351|0|0|0|2f696d616765732f6c6f63616c69736174696f6e6261732e706e67|]
+May 14 16:54:30 10.71.51.12 u93486425 open "/images/ladepeche.png" flags READ mode 0666
+May 14 16:54:30 10.71.51.12 u93486425 close "/images/localisation.png" bytes read 1842 written 0
+May 14 16:54:30 10.71.51.12 u93486425 [10.71.51.12|get|0|1842|0|0|0|2f696d616765732f6c6f63616c69736174696f6e2e706e67|]
+May 14 16:54:30 10.71.51.12 u93486425 close "/images/ladepeche.png" bytes read 3918 written 0
+May 14 16:54:30 10.71.51.12 u93486425 open "/images/intel.png" flags READ mode 0666
+May 14 16:54:30 10.71.51.12 u93486425 [10.71.51.12|get|0|3918|0|0|0|2f696d616765732f6c61646570656368652e706e67|]
+May 14 16:54:30 10.71.51.12 u93486425 close "/images/intel.png" bytes read 21950 written 0
+May 14 16:54:30 10.71.51.12 u93486425 open "/images/installation.png" flags READ mode 0666
+May 14 16:54:30 10.71.51.12 u93486425 [10.71.51.12|get|0|21950|0|0|0|2f696d616765732f696e74656c2e706e67|]
+May 14 16:54:30 10.71.51.12 u93486425 open "/images/hp.png" flags READ mode 0666
+May 14 16:54:30 10.71.51.12 u93486425 close "/images/installation.png" bytes read 1751 written 0
+May 14 16:54:30 10.71.51.12 u93486425 [10.71.51.12|get|0|1751|0|0|0|2f696d616765732f696e7374616c6c6174696f6e2e706e67|]
+May 14 16:54:30 10.71.51.12 u93486425 open "/images/hautdusite2.png" flags READ mode 0666
+May 14 16:54:30 10.71.51.12 u93486425 close "/images/hp.png" bytes read 16744 written 0
+May 14 16:54:30 10.71.51.12 u93486425 [10.71.51.12|get|0|16744|0|0|0|2f696d616765732f68702e706e67|]
+May 14 16:54:31 10.71.51.12 u93486425 close "/images/hautdusite2.png" bytes read 766 written 0
+May 14 16:54:31 10.71.51.12 u93486425 [10.71.51.12|get|1|766|0|0|0|2f696d616765732f68617574647573697465322e706e67|]
+May 14 16:54:31 10.71.51.12 u93486425 open "/images/facebook.png" flags READ mode 0666
+May 14 16:54:31 10.71.51.12 u93486425 open "/images/diaporama.jpg" flags READ mode 0666
+May 14 16:54:31 10.71.51.12 u93486425 close "/images/facebook.png" bytes read 1022 written 0
+May 14 16:54:31 10.71.51.12 u93486425 [10.71.51.12|get|0|1022|0|0|0|2f696d616765732f66616365626f6f6b2e706e67|]
+May 14 16:54:31 10.71.51.12 u93486425 open "/images/diapo.jpg" flags READ mode 0666
+May 14 16:54:31 10.71.51.12 u93486425 close "/images/diaporama.jpg" bytes read 831352 written 0
+May 14 16:54:31 10.71.51.12 u93486425 [10.71.51.12|get|0|831352|0|0|0|2f696d616765732f646961706f72616d612e6a7067|]
+May 14 16:54:31 10.71.51.12 u93486425 open "/images/conseil.png" flags READ mode 0666
+May 14 16:54:31 10.71.51.12 u93486425 close "/images/diapo.jpg" bytes read 422350 written 0
+May 14 16:54:31 10.71.51.12 u93486425 [10.71.51.12|get|0|422350|0|0|0|2f696d616765732f646961706f2e6a7067|]
+May 14 16:54:31 10.71.51.12 u93486425 close "/images/conseil.png" bytes read 1683 written 0
+May 14 16:54:31 10.71.51.12 u93486425 [10.71.51.12|get|0|1683|0|0|0|2f696d616765732f636f6e7365696c2e706e67|]
+May 14 16:54:31 10.71.51.12 u93486425 open "/images/cours.png" flags READ mode 0666
+May 14 16:54:31 10.71.51.12 u93486425 open "/images/certificat.png" flags READ mode 0666
+May 14 16:54:31 10.71.51.12 u93486425 close "/images/cours.png" bytes read 2381 written 0
+May 14 16:54:31 10.71.51.12 u93486425 [10.71.51.12|get|0|2381|0|0|0|2f696d616765732f636f7572732e706e67|]
+May 14 16:54:31 10.71.51.12 u93486425 close "/images/certificat.png" bytes read 1835 written 0
+May 14 16:54:31 10.71.51.12 u93486425 [10.71.51.12|get|0|1835|0|0|0|2f696d616765732f636572746966696361742e706e67|]
+May 14 16:54:32 10.71.51.12 u93486425 open "/images/carnetbas.png" flags READ mode 0666
+May 14 16:54:32 10.71.51.12 u93486425 open "/images/blocnote.png" flags READ mode 0666
+May 14 16:54:32 10.71.51.12 u93486425 close "/images/carnetbas.png" bytes read 1343 written 0
+May 14 16:54:32 10.71.51.12 u93486425 [10.71.51.12|get|0|1343|0|0|0|2f696d616765732f6361726e65746261732e706e67|]
+May 14 16:54:32 10.71.51.12 u93486425 close "/images/blocnote.png" bytes read 1899 written 0
+May 14 16:54:32 10.71.51.12 u93486425 [10.71.51.12|get|0|1899|0|0|0|2f696d616765732f626c6f636e6f74652e706e67|]
+May 14 16:54:32 10.71.51.12 u93486425 open "/images/asus.png" flags READ mode 0666
+May 14 16:54:32 10.71.51.12 u93486425 open "/images/acer.png" flags READ mode 0666
+May 14 16:54:32 10.71.51.12 u93486425 close "/images/asus.png" bytes read 11954 written 0
+May 14 16:54:32 10.71.51.12 u93486425 [10.71.51.12|get|0|11954|0|0|0|2f696d616765732f617375732e706e67|]
+May 14 16:54:32 10.71.51.12 u93486425 close "/images/acer.png" bytes read 12942 written 0
+May 14 16:54:32 10.71.51.12 u93486425 [10.71.51.12|get|0|12942|0|0|0|2f696d616765732f616365722e706e67|]
+May 14 16:54:32 10.71.51.12 u93486425 open "/images/adielogo.png" flags READ mode 0666
+May 14 16:54:32 10.71.51.12 u93486425 open "/js/slick.min.js" flags READ mode 0666
+May 14 16:54:32 10.71.51.12 u93486425 close "/js/slick.min.js" bytes read 42863 written 0
+May 14 16:54:32 10.71.51.12 u93486425 [10.71.51.12|get|0|42863|0|0|0|2f6a732f736c69636b2e6d696e2e6a73|]
+May 14 16:54:33 10.71.51.12 u93486425 open "/js/jquery.fullPage.js" flags READ mode 0666
+May 14 16:54:33 10.71.51.12 u93486425 close "/images/adielogo.png" bytes read 5510 written 0
+May 14 16:54:33 10.71.51.12 u93486425 [10.71.51.12|get|1|5510|0|0|0|2f696d616765732f616469656c6f676f2e706e67|]
+May 14 16:54:33 10.71.51.12 u93486425 close "/js/jquery.fullPage.js" bytes read 112015 written 0
+May 14 16:54:33 10.71.51.12 u93486425 [10.71.51.12|get|0|112015|0|0|0|2f6a732f6a71756572792e66756c6c506167652e6a73|]
+May 14 16:54:33 10.71.51.12 u93486425 open "/js/script.js" flags READ mode 0666
+May 14 16:54:33 10.71.51.12 u93486425 open "/js/assets/owl.video.play.png" flags READ mode 0666
+May 14 16:54:33 10.71.51.12 u93486425 close "/js/script.js" bytes read 311 written 0
+May 14 16:54:33 10.71.51.12 u93486425 [10.71.51.12|get|0|311|0|0|0|2f6a732f7363726970742e6a73|]
+May 14 16:54:33 10.71.51.12 u93486425 close "/js/assets/owl.video.play.png" bytes read 4976 written 0
+May 14 16:54:33 10.71.51.12 u93486425 [10.71.51.12|get|0|4976|0|0|0|2f6a732f6173736574732f6f776c2e766964656f2e706c61792e706e67|]
+May 14 16:54:33 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.min.css" flags READ mode 0666
+May 14 16:54:33 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.css" flags READ mode 0666
+May 14 16:54:34 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.css" bytes read 1301 written 0
+May 14 16:54:34 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.min.css" bytes read 936 written 0
+May 14 16:54:34 10.71.51.12 u93486425 [10.71.51.12|get|1|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e6d696e2e637373|]
+May 14 16:54:34 10.71.51.12 u93486425 [10.71.51.12|get|1|1301|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e637373|]
+May 14 16:54:34 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.min.css" flags READ mode 0666
+May 14 16:54:34 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.css" flags READ mode 0666
+May 14 16:54:34 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.css" bytes read 1303 written 0
+May 14 16:54:34 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.min.css" bytes read 936 written 0
+May 14 16:54:34 10.71.51.12 u93486425 [10.71.51.12|get|0|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e6d696e2e637373|]
+May 14 16:54:34 10.71.51.12 u93486425 [10.71.51.12|get|0|1303|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e637373|]
+May 14 16:54:34 10.71.51.12 u93486425 open "/js/assets/ajax-loader.gif" flags READ mode 0666
+May 14 16:54:34 10.71.51.12 u93486425 open "/js/assets/owl.carousel.min.css" flags READ mode 0666
+May 14 16:54:34 10.71.51.12 u93486425 close "/js/assets/owl.carousel.min.css" bytes read 2936 written 0
+May 14 16:54:34 10.71.51.12 u93486425 close "/js/assets/ajax-loader.gif" bytes read 3208 written 0
+May 14 16:54:34 10.71.51.12 u93486425 [10.71.51.12|get|0|3208|0|0|0|2f6a732f6173736574732f616a61782d6c6f616465722e676966|]
+May 14 16:54:34 10.71.51.12 u93486425 [10.71.51.12|get|0|2936|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e6d696e2e637373|]
+May 14 16:54:34 10.71.51.12 u93486425 open "/js/assets/owl.carousel.css" flags READ mode 0666
+May 14 16:54:34 10.71.51.12 u93486425 open "/logs/sftp.log" flags READ mode 0666
+May 14 16:54:34 10.71.51.12 u93486425 close "/js/assets/owl.carousel.css" bytes read 4028 written 0
+May 14 16:54:34 10.71.51.12 u93486425 [10.71.51.12|get|0|4028|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e637373|]
+May 14 16:54:35 10.71.51.12 u93486425 close "/logs/sftp.log" bytes read 16132 written 0
+May 14 16:54:35 10.71.51.12 u93486425 [10.71.51.12|get|1|16132|0|0|0|2f6c6f67732f736674702e6c6f67|]
+May 14 16:54:35 10.71.51.12 u93486425 open "/logs/access.log.18.gz" flags READ mode 0666
+May 14 16:54:35 10.71.51.12 u93486425 open "/logs/access.log.20.1" flags READ mode 0666
+May 14 16:54:35 10.71.51.12 u93486425 close "/logs/access.log.20.1" bytes read 24332 written 0
+May 14 16:54:35 10.71.51.12 u93486425 close "/logs/access.log.18.gz" bytes read 19595 written 0
+May 14 16:54:35 10.71.51.12 u93486425 [10.71.51.12|get|0|24332|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e31|]
+May 14 16:54:35 10.71.51.12 u93486425 [10.71.51.12|get|0|19595|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e677a|]
+May 14 16:54:35 10.71.51.12 u93486425 open "/logs/sftp.log.19.gz" flags READ mode 0666
+May 14 16:54:35 10.71.51.12 u93486425 open "/logs/mail.log.19.gz" flags READ mode 0666
+May 14 16:54:35 10.71.51.12 u93486425 close "/logs/sftp.log.19.gz" bytes read 3171 written 0
+May 14 16:54:35 10.71.51.12 u93486425 [10.71.51.12|get|0|3171|0|0|0|2f6c6f67732f736674702e6c6f672e31392e677a|]
+May 14 16:54:35 10.71.51.12 u93486425 close "/logs/mail.log.19.gz" bytes read 373 written 0
+May 14 16:54:35 10.71.51.12 u93486425 [10.71.51.12|get|0|373|0|0|0|2f6c6f67732f6d61696c2e6c6f672e31392e677a|]
+May 14 16:54:35 10.71.51.12 u93486425 open "/logs/access.log.19.7.gz" flags READ mode 0666
+May 14 16:54:35 10.71.51.12 u93486425 open "/logs/access.log.19.6.gz" flags READ mode 0666
+May 14 16:54:36 10.71.51.12 u93486425 close "/logs/access.log.19.6.gz" bytes read 3454 written 0
+May 14 16:54:36 10.71.51.12 u93486425 close "/logs/access.log.19.7.gz" bytes read 1430 written 0
+May 14 16:54:36 10.71.51.12 u93486425 [10.71.51.12|get|1|3454|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e362e677a|]
+May 14 16:54:36 10.71.51.12 u93486425 [10.71.51.12|get|1|1430|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e372e677a|]
+May 14 16:54:36 10.71.51.12 u93486425 open "/logs/access.log.19.4.gz" flags READ mode 0666
+May 14 16:54:36 10.71.51.12 u93486425 open "/logs/access.log.19.5.gz" flags READ mode 0666
+May 14 16:54:36 10.71.51.12 u93486425 close "/logs/access.log.19.4.gz" bytes read 748 written 0
+May 14 16:54:36 10.71.51.12 u93486425 close "/logs/access.log.19.5.gz" bytes read 855 written 0
+May 14 16:54:36 10.71.51.12 u93486425 [10.71.51.12|get|0|855|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e352e677a|]
+May 14 16:54:36 10.71.51.12 u93486425 [10.71.51.12|get|0|748|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e342e677a|]
+May 14 16:54:36 10.71.51.12 u93486425 open "/logs/access.log.19.3.gz" flags READ mode 0666
+May 14 16:54:36 10.71.51.12 u93486425 open "/logs/access.log.19.2.gz" flags READ mode 0666
+May 14 16:54:36 10.71.51.12 u93486425 close "/logs/access.log.19.3.gz" bytes read 1506 written 0
+May 14 16:54:36 10.71.51.12 u93486425 [10.71.51.12|get|0|1506|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e332e677a|]
+May 14 16:54:36 10.71.51.12 u93486425 close "/logs/access.log.19.2.gz" bytes read 737 written 0
+May 14 16:54:36 10.71.51.12 u93486425 [10.71.51.12|get|0|737|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e322e677a|]
+May 14 16:54:36 10.71.51.12 u93486425 open "/logs/sftp.log.18.gz" flags READ mode 0666
+May 14 16:54:36 10.71.51.12 u93486425 open "/logs/access.log.19.1.gz" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 close "/logs/sftp.log.18.gz" bytes read 12779 written 0
+May 14 16:54:37 10.71.51.12 u93486425 [10.71.51.12|get|1|12779|0|0|0|2f6c6f67732f736674702e6c6f672e31382e677a|]
+May 14 16:54:37 10.71.51.12 u93486425 close "/logs/access.log.19.1.gz" bytes read 1773 written 0
+May 14 16:54:37 10.71.51.12 u93486425 [10.71.51.12|get|1|1773|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e312e677a|]
+May 14 16:54:37 10.71.51.12 u93486425 open "/logs/last_traffic" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 open "/logs/traffic.db" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 close "/logs/last_traffic" bytes read 0 written 0
+May 14 16:54:37 10.71.51.12 u93486425 [10.71.51.12|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+May 14 16:54:37 10.71.51.12 u93486425 close "/logs/traffic.db" bytes read 12288 written 0
+May 14 16:54:37 10.71.51.12 u93486425 [10.71.51.12|get|0|12288|0|0|0|2f6c6f67732f747261666669632e6462|]
+May 14 16:54:37 10.71.51.12 u93486425 open "/logs/info.php5" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 open "/logs/.htaccess" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 close "/logs/info.php5" bytes read 21 written 0
+May 14 16:54:37 10.71.51.12 u93486425 [10.71.51.12|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+May 14 16:54:37 10.71.51.12 u93486425 close "/logs/.htaccess" bytes read 267 written 0
+May 14 16:54:37 10.71.51.12 u93486425 [10.71.51.12|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+May 14 16:54:37 10.71.51.12 u93486425 open "/logs/traffic.html/05.html" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 sent status Permission denied
+May 14 16:54:37 10.71.51.12 u93486425 close "/logs/traffic.html/05.html" bytes read 4699 written 0
+May 14 16:54:37 10.71.51.12 u93486425 [10.71.51.12|get|0|4699|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+May 14 16:54:37 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 16:54:37 10.71.51.12 u93486425 sent status Permission denied
+May 14 16:54:38 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 16:54:38 10.71.51.12 u93486425 sent status Permission denied
+May 14 16:54:38 10.71.51.12 u93486425 open "/logs/traffic.html/index.html" flags READ mode 0666
+May 14 16:54:38 10.71.51.12 u93486425 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+May 14 16:54:38 10.71.51.12 u93486425 close "/logs/traffic.html/index.html" bytes read 2356 written 0
+May 14 16:54:38 10.71.51.12 u93486425 [10.71.51.12|get|0|2356|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+May 14 16:54:38 10.71.51.12 u93486425 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+May 14 16:54:38 10.71.51.12 u93486425 [10.71.51.12|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+May 14 16:54:38 10.71.51.12 u93486425 open "/logs/access.log.20.1" flags READ mode 0666
+May 14 16:54:38 10.71.51.12 u93486425 open "/style/style.css" flags READ mode 0666
+May 14 16:54:38 10.71.51.12 u93486425 close "/style/style.css" bytes read 16694 written 0
+May 14 16:54:38 10.71.51.12 u93486425 [10.71.51.12|get|0|16694|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 16:54:38 10.71.51.12 u93486425 close "/logs/access.log.20.1" bytes read 24332 written 0
+May 14 16:54:38 10.71.51.12 u93486425 [10.71.51.12|get|0|24332|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e31|]
+May 14 16:54:38 10.71.51.12 u93486425 open "/style/slick.css" flags READ mode 0666
+May 14 16:54:39 10.71.51.12 u93486425 open "/style/slick-theme.css" flags READ mode 0666
+May 14 16:54:39 10.71.51.12 u93486425 close "/style/slick.css" bytes read 1776 written 0
+May 14 16:54:39 10.71.51.12 u93486425 [10.71.51.12|get|1|1776|0|0|0|2f7374796c652f736c69636b2e637373|]
+May 14 16:54:39 10.71.51.12 u93486425 close "/style/slick-theme.css" bytes read 3145 written 0
+May 14 16:54:39 10.71.51.12 u93486425 [10.71.51.12|get|0|3145|0|0|0|2f7374796c652f736c69636b2d7468656d652e637373|]
+May 14 16:54:39 10.71.51.12 u93486425 open "/style/ajax-loader.gif" flags READ mode 0666
+May 14 16:54:39 10.71.51.12 u93486425 close "/style/ajax-loader.gif" bytes read 4178 written 0
+May 14 16:54:39 10.71.51.12 u93486425 open "/style/jquery.fullPage.css" flags READ mode 0666
+May 14 16:54:39 10.71.51.12 u93486425 [10.71.51.12|get|0|4178|0|0|0|2f7374796c652f616a61782d6c6f616465722e676966|]
+May 14 16:54:39 10.71.51.12 u93486425 close "/style/jquery.fullPage.css" bytes read 5072 written 0
+May 14 16:54:39 10.71.51.12 u93486425 [10.71.51.12|get|0|5072|0|0|0|2f7374796c652f6a71756572792e66756c6c506167652e637373|]
+May 14 16:54:39 10.71.51.12 u93486425 open "/style/fonts/slick.woff" flags READ mode 0666
+May 14 16:54:39 10.71.51.12 u93486425 open "/style/fonts/slick.ttf" flags READ mode 0666
+May 14 16:54:39 10.71.51.12 u93486425 close "/style/fonts/slick.woff" bytes read 1380 written 0
+May 14 16:54:39 10.71.51.12 u93486425 [10.71.51.12|get|0|1380|0|0|0|2f7374796c652f666f6e74732f736c69636b2e776f6666|]
+May 14 16:54:39 10.71.51.12 u93486425 open "/style/fonts/slick.eot" flags READ mode 0666
+May 14 16:54:39 10.71.51.12 u93486425 close "/style/fonts/slick.ttf" bytes read 1892 written 0
+May 14 16:54:39 10.71.51.12 u93486425 [10.71.51.12|get|0|1892|0|0|0|2f7374796c652f666f6e74732f736c69636b2e747466|]
+May 14 16:54:40 10.71.51.12 u93486425 open "/style/fonts/slick.svg" flags READ mode 0666
+May 14 16:54:40 10.71.51.12 u93486425 close "/style/fonts/slick.eot" bytes read 2048 written 0
+May 14 16:54:40 10.71.51.12 u93486425 [10.71.51.12|get|1|2048|0|0|0|2f7374796c652f666f6e74732f736c69636b2e656f74|]
+May 14 16:54:40 10.71.51.12 u93486425 close "/style/fonts/slick.svg" bytes read 2152 written 0
+May 14 16:54:40 10.71.51.12 u93486425 [10.71.51.12|get|0|2152|0|0|0|2f7374796c652f666f6e74732f736c69636b2e737667|]
+May 14 16:55:20 10.71.51.12 u93486425 open "/accueil.html" flags READ mode 0666
+May 14 16:55:20 10.71.51.12 u93486425 open "/favicon.ico" flags READ mode 0666
+May 14 16:55:20 10.71.51.12 u93486425 sent status No such file
+May 14 16:55:20 10.71.51.12 u93486425 close "/favicon.ico" bytes read 1406 written 0
+May 14 16:55:20 10.71.51.12 u93486425 [10.71.51.12|get|0|1406|0|0|0|2f66617669636f6e2e69636f|]
+May 14 16:55:20 10.71.51.12 u93486425 close "/accueil.html" bytes read 383 written 0
+May 14 16:55:20 10.71.51.12 u93486425 [10.71.51.12|get|0|383|0|0|0|2f6163637565696c2e68746d6c|]
+May 14 16:55:20 10.71.51.12 u93486425 open "/index.php" flags READ mode 0666
+May 14 16:55:20 10.71.51.12 u93486425 open "/copie/index.php" flags READ mode 0666
+May 14 16:55:20 10.71.51.12 u93486425 close "/index.php" bytes read 12077 written 0
+May 14 16:55:20 10.71.51.12 u93486425 [10.71.51.12|get|0|12077|0|0|0|2f696e6465782e706870|]
+May 14 16:55:20 10.71.51.12 u93486425 close "/copie/index.php" bytes read 11995 written 0
+May 14 16:55:20 10.71.51.12 u93486425 [10.71.51.12|get|0|11995|0|0|0|2f636f7069652f696e6465782e706870|]
+May 14 16:55:20 10.71.51.12 u93486425 open "/copie/style.css" flags READ mode 0666
+May 14 16:55:21 10.71.51.12 u93486425 open "/images/telephone.png" flags READ mode 0666
+May 14 16:55:21 10.71.51.12 u93486425 close "/copie/style.css" bytes read 4629 written 0
+May 14 16:55:21 10.71.51.12 u93486425 [10.71.51.12|get|1|4629|0|0|0|2f636f7069652f7374796c652e637373|]
+May 14 16:55:21 10.71.51.12 u93486425 close "/images/telephone.png" bytes read 920 written 0
+May 14 16:55:21 10.71.51.12 u93486425 [10.71.51.12|get|0|920|0|0|0|2f696d616765732f74656c6570686f6e652e706e67|]
+May 14 16:55:21 10.71.51.12 u93486425 open "/images/smartphone.png" flags READ mode 0666
+May 14 16:55:21 10.71.51.12 u93486425 open "/images/settings.png" flags READ mode 0666
+May 14 16:55:21 10.71.51.12 u93486425 close "/images/settings.png" bytes read 1505 written 0
+May 14 16:55:21 10.71.51.12 u93486425 [10.71.51.12|get|0|1505|0|0|0|2f696d616765732f73657474696e67732e706e67|]
+May 14 16:55:21 10.71.51.12 u93486425 close "/images/smartphone.png" bytes read 1065 written 0
+May 14 16:55:21 10.71.51.12 u93486425 [10.71.51.12|get|0|1065|0|0|0|2f696d616765732f736d61727470686f6e652e706e67|]
+May 14 16:55:21 10.71.51.12 u93486425 open "/images/securite.png" flags READ mode 0666
+May 14 16:55:21 10.71.51.12 u93486425 open "/images/rouedent.png" flags READ mode 0666
+May 14 16:55:21 10.71.51.12 u93486425 close "/images/rouedent.png" bytes read 2188 written 0
+May 14 16:55:21 10.71.51.12 u93486425 close "/images/securite.png" bytes read 1360 written 0
+May 14 16:55:21 10.71.51.12 u93486425 [10.71.51.12|get|0|2188|0|0|0|2f696d616765732f726f756564656e742e706e67|]
+May 14 16:55:21 10.71.51.12 u93486425 [10.71.51.12|get|0|1360|0|0|0|2f696d616765732f73656375726974652e706e67|]
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/nvidia.png" flags READ mode 0666
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/ordinateurrr.png" flags READ mode 0666
+May 14 16:55:22 10.71.51.12 u93486425 close "/images/nvidia.png" bytes read 11135 written 0
+May 14 16:55:22 10.71.51.12 u93486425 [10.71.51.12|get|0|11135|0|0|0|2f696d616765732f6e76696469612e706e67|]
+May 14 16:55:22 10.71.51.12 u93486425 close "/images/ordinateurrr.png" bytes read 858149 written 0
+May 14 16:55:22 10.71.51.12 u93486425 [10.71.51.12|get|0|858149|0|0|0|2f696d616765732f6f7264696e617465757272722e706e67|]
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/msi.png" flags READ mode 0666
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/mailbas.png" flags READ mode 0666
+May 14 16:55:22 10.71.51.12 u93486425 close "/images/msi.png" bytes read 9369 written 0
+May 14 16:55:22 10.71.51.12 u93486425 [10.71.51.12|get|0|9369|0|0|0|2f696d616765732f6d73692e706e67|]
+May 14 16:55:22 10.71.51.12 u93486425 close "/images/mailbas.png" bytes read 725 written 0
+May 14 16:55:22 10.71.51.12 u93486425 [10.71.51.12|get|0|725|0|0|0|2f696d616765732f6d61696c6261732e706e67|]
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/mail.png" flags READ mode 0666
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/loupe.png" flags READ mode 0666
+May 14 16:55:22 10.71.51.12 u93486425 close "/images/mail.png" bytes read 1984 written 0
+May 14 16:55:22 10.71.51.12 u93486425 [10.71.51.12|get|0|1984|0|0|0|2f696d616765732f6d61696c2e706e67|]
+May 14 16:55:22 10.71.51.12 u93486425 close "/images/loupe.png" bytes read 1890 written 0
+May 14 16:55:22 10.71.51.12 u93486425 [10.71.51.12|get|0|1890|0|0|0|2f696d616765732f6c6f7570652e706e67|]
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/logoanbginformatique.png" flags READ mode 0666
+May 14 16:55:22 10.71.51.12 u93486425 open "/images/localisationbas.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/logoanbginformatique.png" bytes read 2035 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|1|2035|0|0|0|2f696d616765732f6c6f676f616e6267696e666f726d6174697175652e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/localisationbas.png" bytes read 1351 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|1|1351|0|0|0|2f696d616765732f6c6f63616c69736174696f6e6261732e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/localisation.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/ladepeche.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/localisation.png" bytes read 1842 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|0|1842|0|0|0|2f696d616765732f6c6f63616c69736174696f6e2e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/ladepeche.png" bytes read 3918 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|0|3918|0|0|0|2f696d616765732f6c61646570656368652e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/intel.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/installation.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/intel.png" bytes read 21950 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|0|21950|0|0|0|2f696d616765732f696e74656c2e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/installation.png" bytes read 1751 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|0|1751|0|0|0|2f696d616765732f696e7374616c6c6174696f6e2e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/hp.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/hautdusite2.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/hp.png" bytes read 16744 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|0|16744|0|0|0|2f696d616765732f68702e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 close "/images/hautdusite2.png" bytes read 766 written 0
+May 14 16:55:23 10.71.51.12 u93486425 [10.71.51.12|get|0|766|0|0|0|2f696d616765732f68617574647573697465322e706e67|]
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/facebook.png" flags READ mode 0666
+May 14 16:55:23 10.71.51.12 u93486425 open "/images/diaporama.jpg" flags READ mode 0666
+May 14 16:55:24 10.71.51.12 u93486425 close "/images/facebook.png" bytes read 1022 written 0
+May 14 16:55:24 10.71.51.12 u93486425 [10.71.51.12|get|1|1022|0|0|0|2f696d616765732f66616365626f6f6b2e706e67|]
+May 14 16:55:24 10.71.51.12 u93486425 close "/images/diaporama.jpg" bytes read 831352 written 0
+May 14 16:55:24 10.71.51.12 u93486425 [10.71.51.12|get|1|831352|0|0|0|2f696d616765732f646961706f72616d612e6a7067|]
+May 14 16:55:24 10.71.51.12 u93486425 open "/images/diapo.jpg" flags READ mode 0666
+May 14 16:55:24 10.71.51.12 u93486425 open "/images/conseil.png" flags READ mode 0666
+May 14 16:55:24 10.71.51.12 u93486425 close "/images/diapo.jpg" bytes read 422350 written 0
+May 14 16:55:24 10.71.51.12 u93486425 [10.71.51.12|get|0|422350|0|0|0|2f696d616765732f646961706f2e6a7067|]
+May 14 16:55:24 10.71.51.12 u93486425 close "/images/conseil.png" bytes read 1683 written 0
+May 14 16:55:24 10.71.51.12 u93486425 [10.71.51.12|get|0|1683|0|0|0|2f696d616765732f636f6e7365696c2e706e67|]
+May 14 16:55:24 10.71.51.12 u93486425 open "/images/cours.png" flags READ mode 0666
+May 14 16:55:24 10.71.51.12 u93486425 open "/images/certificat.png" flags READ mode 0666
+May 14 16:55:24 10.71.51.12 u93486425 close "/images/cours.png" bytes read 2381 written 0
+May 14 16:55:24 10.71.51.12 u93486425 [10.71.51.12|get|0|2381|0|0|0|2f696d616765732f636f7572732e706e67|]
+May 14 16:55:24 10.71.51.12 u93486425 close "/images/certificat.png" bytes read 1835 written 0
+May 14 16:55:24 10.71.51.12 u93486425 [10.71.51.12|get|0|1835|0|0|0|2f696d616765732f636572746966696361742e706e67|]
+May 14 16:55:24 10.71.51.12 u93486425 open "/images/carnetbas.png" flags READ mode 0666
+May 14 16:55:24 10.71.51.12 u93486425 open "/images/blocnote.png" flags READ mode 0666
+May 14 16:55:25 10.71.51.12 u93486425 close "/images/carnetbas.png" bytes read 1343 written 0
+May 14 16:55:25 10.71.51.12 u93486425 [10.71.51.12|get|1|1343|0|0|0|2f696d616765732f6361726e65746261732e706e67|]
+May 14 16:55:25 10.71.51.12 u93486425 close "/images/blocnote.png" bytes read 1899 written 0
+May 14 16:55:25 10.71.51.12 u93486425 [10.71.51.12|get|1|1899|0|0|0|2f696d616765732f626c6f636e6f74652e706e67|]
+May 14 16:55:25 10.71.51.12 u93486425 open "/images/asus.png" flags READ mode 0666
+May 14 16:55:25 10.71.51.12 u93486425 open "/images/acer.png" flags READ mode 0666
+May 14 16:55:25 10.71.51.12 u93486425 close "/images/asus.png" bytes read 11954 written 0
+May 14 16:55:25 10.71.51.12 u93486425 [10.71.51.12|get|0|11954|0|0|0|2f696d616765732f617375732e706e67|]
+May 14 16:55:25 10.71.51.12 u93486425 close "/images/acer.png" bytes read 12942 written 0
+May 14 16:55:25 10.71.51.12 u93486425 [10.71.51.12|get|0|12942|0|0|0|2f696d616765732f616365722e706e67|]
+May 14 16:55:25 10.71.51.12 u93486425 open "/images/adielogo.png" flags READ mode 0666
+May 14 16:55:25 10.71.51.12 u93486425 close "/images/adielogo.png" bytes read 5510 written 0
+May 14 16:55:25 10.71.51.12 u93486425 [10.71.51.12|get|0|5510|0|0|0|2f696d616765732f616469656c6f676f2e706e67|]
+May 14 16:55:25 10.71.51.12 u93486425 open "/js/slick.min.js" flags READ mode 0666
+May 14 16:55:25 10.71.51.12 u93486425 close "/js/slick.min.js" bytes read 42863 written 0
+May 14 16:55:25 10.71.51.12 u93486425 [10.71.51.12|get|0|42863|0|0|0|2f6a732f736c69636b2e6d696e2e6a73|]
+May 14 16:55:25 10.71.51.12 u93486425 open "/js/jquery.fullPage.js" flags READ mode 0666
+May 14 16:55:25 10.71.51.12 u93486425 open "/js/script.js" flags READ mode 0666
+May 14 16:55:26 10.71.51.12 u93486425 close "/js/jquery.fullPage.js" bytes read 112015 written 0
+May 14 16:55:26 10.71.51.12 u93486425 [10.71.51.12|get|1|112015|0|0|0|2f6a732f6a71756572792e66756c6c506167652e6a73|]
+May 14 16:55:26 10.71.51.12 u93486425 close "/js/script.js" bytes read 311 written 0
+May 14 16:55:26 10.71.51.12 u93486425 [10.71.51.12|get|1|311|0|0|0|2f6a732f7363726970742e6a73|]
+May 14 16:55:26 10.71.51.12 u93486425 open "/js/assets/owl.video.play.png" flags READ mode 0666
+May 14 16:55:26 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.min.css" flags READ mode 0666
+May 14 16:55:26 10.71.51.12 u93486425 close "/js/assets/owl.video.play.png" bytes read 4976 written 0
+May 14 16:55:26 10.71.51.12 u93486425 [10.71.51.12|get|0|4976|0|0|0|2f6a732f6173736574732f6f776c2e766964656f2e706c61792e706e67|]
+May 14 16:55:26 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.min.css" bytes read 936 written 0
+May 14 16:55:26 10.71.51.12 u93486425 [10.71.51.12|get|0|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e6d696e2e637373|]
+May 14 16:55:26 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.css" flags READ mode 0666
+May 14 16:55:26 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.min.css" flags READ mode 0666
+May 14 16:55:26 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.css" bytes read 1301 written 0
+May 14 16:55:26 10.71.51.12 u93486425 [10.71.51.12|get|0|1301|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e637373|]
+May 14 16:55:26 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.min.css" bytes read 936 written 0
+May 14 16:55:26 10.71.51.12 u93486425 [10.71.51.12|get|0|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e6d696e2e637373|]
+May 14 16:55:26 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.css" flags READ mode 0666
+May 14 16:55:26 10.71.51.12 u93486425 open "/js/assets/owl.carousel.min.css" flags READ mode 0666
+May 14 16:55:27 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.css" bytes read 1303 written 0
+May 14 16:55:27 10.71.51.12 u93486425 [10.71.51.12|get|1|1303|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e637373|]
+May 14 16:55:27 10.71.51.12 u93486425 close "/js/assets/owl.carousel.min.css" bytes read 2936 written 0
+May 14 16:55:27 10.71.51.12 u93486425 [10.71.51.12|get|1|2936|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e6d696e2e637373|]
+May 14 16:55:27 10.71.51.12 u93486425 open "/js/assets/ajax-loader.gif" flags READ mode 0666
+May 14 16:55:27 10.71.51.12 u93486425 open "/js/assets/owl.carousel.css" flags READ mode 0666
+May 14 16:55:27 10.71.51.12 u93486425 close "/js/assets/ajax-loader.gif" bytes read 3208 written 0
+May 14 16:55:27 10.71.51.12 u93486425 [10.71.51.12|get|0|3208|0|0|0|2f6a732f6173736574732f616a61782d6c6f616465722e676966|]
+May 14 16:55:27 10.71.51.12 u93486425 close "/js/assets/owl.carousel.css" bytes read 4028 written 0
+May 14 16:55:27 10.71.51.12 u93486425 [10.71.51.12|get|0|4028|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e637373|]
+May 14 16:55:27 10.71.51.12 u93486425 open "/logs/sftp.log" flags READ mode 0666
+May 14 16:55:28 10.71.51.12 u93486425 open "/logs/access.log.20.1" flags READ mode 0666
+May 14 16:55:28 10.71.51.12 u93486425 close "/logs/sftp.log" bytes read 39165 written 0
+May 14 16:55:28 10.71.51.12 u93486425 [10.71.51.12|get|1|39165|0|0|0|2f6c6f67732f736674702e6c6f67|]
+May 14 16:55:28 10.71.51.12 u93486425 close "/logs/access.log.20.1" bytes read 24332 written 0
+May 14 16:55:28 10.71.51.12 u93486425 [10.71.51.12|get|0|24332|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e31|]
+May 14 16:55:28 10.71.51.12 u93486425 open "/logs/access.log.18.gz" flags READ mode 0666
+May 14 16:55:28 10.71.51.12 u93486425 open "/logs/mail.log.19.gz" flags READ mode 0666
+May 14 16:55:28 10.71.51.12 u93486425 close "/logs/access.log.18.gz" bytes read 19595 written 0
+May 14 16:55:28 10.71.51.12 u93486425 [10.71.51.12|get|0|19595|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e677a|]
+May 14 16:55:28 10.71.51.12 u93486425 close "/logs/mail.log.19.gz" bytes read 373 written 0
+May 14 16:55:28 10.71.51.12 u93486425 [10.71.51.12|get|0|373|0|0|0|2f6c6f67732f6d61696c2e6c6f672e31392e677a|]
+May 14 16:55:28 10.71.51.12 u93486425 open "/logs/sftp.log.19.gz" flags READ mode 0666
+May 14 16:55:29 10.71.51.12 u93486425 open "/logs/access.log.19.7.gz" flags READ mode 0666
+May 14 16:55:29 10.71.51.12 u93486425 close "/logs/sftp.log.19.gz" bytes read 3171 written 0
+May 14 16:55:29 10.71.51.12 u93486425 [10.71.51.12|get|1|3171|0|0|0|2f6c6f67732f736674702e6c6f672e31392e677a|]
+May 14 16:55:29 10.71.51.12 u93486425 open "/logs/access.log.19.6.gz" flags READ mode 0666
+May 14 16:55:29 10.71.51.12 u93486425 close "/logs/access.log.19.7.gz" bytes read 1430 written 0
+May 14 16:55:29 10.71.51.12 u93486425 [10.71.51.12|get|0|1430|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e372e677a|]
+May 14 16:55:29 10.71.51.12 u93486425 open "/logs/access.log.19.5.gz" flags READ mode 0666
+May 14 16:55:29 10.71.51.12 u93486425 close "/logs/access.log.19.6.gz" bytes read 3454 written 0
+May 14 16:55:29 10.71.51.12 u93486425 [10.71.51.12|get|0|3454|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e362e677a|]
+May 14 16:55:29 10.71.51.12 u93486425 open "/logs/access.log.19.4.gz" flags READ mode 0666
+May 14 16:55:29 10.71.51.12 u93486425 close "/logs/access.log.19.5.gz" bytes read 855 written 0
+May 14 16:55:29 10.71.51.12 u93486425 [10.71.51.12|get|0|855|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e352e677a|]
+May 14 16:55:30 10.71.51.12 u93486425 open "/logs/access.log.19.3.gz" flags READ mode 0666
+May 14 16:55:30 10.71.51.12 u93486425 close "/logs/access.log.19.4.gz" bytes read 748 written 0
+May 14 16:55:30 10.71.51.12 u93486425 [10.71.51.12|get|1|748|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e342e677a|]
+May 14 16:55:30 10.71.51.12 u93486425 open "/logs/access.log.19.2.gz" flags READ mode 0666
+May 14 16:55:30 10.71.51.12 u93486425 close "/logs/access.log.19.3.gz" bytes read 1506 written 0
+May 14 16:55:30 10.71.51.12 u93486425 [10.71.51.12|get|0|1506|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e332e677a|]
+May 14 16:55:30 10.71.51.12 u93486425 open "/logs/access.log.19.1.gz" flags READ mode 0666
+May 14 16:55:30 10.71.51.12 u93486425 close "/logs/access.log.19.2.gz" bytes read 737 written 0
+May 14 16:55:30 10.71.51.12 u93486425 [10.71.51.12|get|0|737|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e322e677a|]
+May 14 16:55:30 10.71.51.12 u93486425 open "/logs/sftp.log.18.gz" flags READ mode 0666
+May 14 16:55:30 10.71.51.12 u93486425 close "/logs/access.log.19.1.gz" bytes read 1773 written 0
+May 14 16:55:30 10.71.51.12 u93486425 [10.71.51.12|get|0|1773|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e312e677a|]
+May 14 16:55:30 10.71.51.12 u93486425 open "/logs/last_traffic" flags READ mode 0666
+May 14 16:55:30 10.71.51.12 u93486425 close "/logs/sftp.log.18.gz" bytes read 12779 written 0
+May 14 16:55:30 10.71.51.12 u93486425 [10.71.51.12|get|0|12779|0|0|0|2f6c6f67732f736674702e6c6f672e31382e677a|]
+May 14 16:55:31 10.71.51.12 u93486425 open "/logs/traffic.db" flags READ mode 0666
+May 14 16:55:31 10.71.51.12 u93486425 close "/logs/last_traffic" bytes read 0 written 0
+May 14 16:55:31 10.71.51.12 u93486425 [10.71.51.12|get|1|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+May 14 16:55:31 10.71.51.12 u93486425 open "/logs/info.php5" flags READ mode 0666
+May 14 16:55:31 10.71.51.12 u93486425 close "/logs/traffic.db" bytes read 12288 written 0
+May 14 16:55:31 10.71.51.12 u93486425 [10.71.51.12|get|0|12288|0|0|0|2f6c6f67732f747261666669632e6462|]
+May 14 16:55:31 10.71.51.12 u93486425 open "/logs/.htaccess" flags READ mode 0666
+May 14 16:55:31 10.71.51.12 u93486425 close "/logs/info.php5" bytes read 21 written 0
+May 14 16:55:31 10.71.51.12 u93486425 [10.71.51.12|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+May 14 16:55:31 10.71.51.12 u93486425 close "/logs/.htaccess" bytes read 267 written 0
+May 14 16:55:31 10.71.51.12 u93486425 [10.71.51.12|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+May 14 16:55:32 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 16:55:32 10.71.51.12 u93486425 sent status Permission denied
+May 14 16:55:32 10.71.51.12 u93486425 open "/logs/traffic.html/05.html" flags READ mode 0666
+May 14 16:55:32 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 16:55:32 10.71.51.12 u93486425 sent status Permission denied
+May 14 16:55:32 10.71.51.12 u93486425 close "/logs/traffic.html/05.html" bytes read 4699 written 0
+May 14 16:55:32 10.71.51.12 u93486425 [10.71.51.12|get|0|4699|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+May 14 16:55:32 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 16:55:32 10.71.51.12 u93486425 sent status Permission denied
+May 14 16:55:32 10.71.51.12 u93486425 open "/logs/traffic.html/index.html" flags READ mode 0666
+May 14 16:55:32 10.71.51.12 u93486425 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+May 14 16:55:32 10.71.51.12 u93486425 close "/logs/traffic.html/index.html" bytes read 2356 written 0
+May 14 16:55:32 10.71.51.12 u93486425 [10.71.51.12|get|0|2356|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+May 14 16:55:32 10.71.51.12 u93486425 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+May 14 16:55:32 10.71.51.12 u93486425 [10.71.51.12|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+May 14 16:55:32 10.71.51.12 u93486425 open "/logs/access.log.20.1" flags READ mode 0666
+May 14 16:55:33 10.71.51.12 u93486425 open "/style/style.css" flags READ mode 0666
+May 14 16:55:33 10.71.51.12 u93486425 close "/logs/access.log.20.1" bytes read 24332 written 0
+May 14 16:55:33 10.71.51.12 u93486425 [10.71.51.12|get|1|24332|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e31|]
+May 14 16:55:33 10.71.51.12 u93486425 close "/style/style.css" bytes read 16694 written 0
+May 14 16:55:33 10.71.51.12 u93486425 [10.71.51.12|get|0|16694|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 16:55:33 10.71.51.12 u93486425 open "/style/slick-theme.css" flags READ mode 0666
+May 14 16:55:33 10.71.51.12 u93486425 open "/style/slick.css" flags READ mode 0666
+May 14 16:55:33 10.71.51.12 u93486425 close "/style/slick-theme.css" bytes read 3145 written 0
+May 14 16:55:33 10.71.51.12 u93486425 [10.71.51.12|get|0|3145|0|0|0|2f7374796c652f736c69636b2d7468656d652e637373|]
+May 14 16:55:33 10.71.51.12 u93486425 close "/style/slick.css" bytes read 1776 written 0
+May 14 16:55:33 10.71.51.12 u93486425 [10.71.51.12|get|0|1776|0|0|0|2f7374796c652f736c69636b2e637373|]
+May 14 16:55:33 10.71.51.12 u93486425 open "/style/ajax-loader.gif" flags READ mode 0666
+May 14 16:55:33 10.71.51.12 u93486425 open "/style/jquery.fullPage.css" flags READ mode 0666
+May 14 16:55:33 10.71.51.12 u93486425 close "/style/ajax-loader.gif" bytes read 4178 written 0
+May 14 16:55:33 10.71.51.12 u93486425 [10.71.51.12|get|0|4178|0|0|0|2f7374796c652f616a61782d6c6f616465722e676966|]
+May 14 16:55:33 10.71.51.12 u93486425 close "/style/jquery.fullPage.css" bytes read 5072 written 0
+May 14 16:55:33 10.71.51.12 u93486425 [10.71.51.12|get|0|5072|0|0|0|2f7374796c652f6a71756572792e66756c6c506167652e637373|]
+May 14 16:55:34 10.71.51.12 u93486425 open "/style/fonts/slick.woff" flags READ mode 0666
+May 14 16:55:34 10.71.51.12 u93486425 open "/style/fonts/slick.ttf" flags READ mode 0666
+May 14 16:55:34 10.71.51.12 u93486425 close "/style/fonts/slick.woff" bytes read 1380 written 0
+May 14 16:55:34 10.71.51.12 u93486425 [10.71.51.12|get|0|1380|0|0|0|2f7374796c652f666f6e74732f736c69636b2e776f6666|]
+May 14 16:55:34 10.71.51.12 u93486425 close "/style/fonts/slick.ttf" bytes read 1892 written 0
+May 14 16:55:34 10.71.51.12 u93486425 [10.71.51.12|get|0|1892|0|0|0|2f7374796c652f666f6e74732f736c69636b2e747466|]
+May 14 16:55:34 10.71.51.12 u93486425 open "/style/fonts/slick.eot" flags READ mode 0666
+May 14 16:55:34 10.71.51.12 u93486425 open "/style/fonts/slick.svg" flags READ mode 0666
+May 14 16:55:34 10.71.51.12 u93486425 close "/style/fonts/slick.eot" bytes read 2048 written 0
+May 14 16:55:34 10.71.51.12 u93486425 [10.71.51.12|get|0|2048|0|0|0|2f7374796c652f666f6e74732f736c69636b2e656f74|]
+May 14 16:55:34 10.71.51.12 u93486425 close "/style/fonts/slick.svg" bytes read 2152 written 0
+May 14 16:55:34 10.71.51.12 u93486425 [10.71.51.12|get|0|2152|0|0|0|2f7374796c652f666f6e74732f736c69636b2e737667|]
+May 14 16:55:38 10.71.51.12 u93486425 remove name "/copie/index.php"
+May 14 16:55:38 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f636f7069652f696e6465782e706870|]
+May 14 16:55:38 10.71.51.12 u93486425 remove name "/copie/style.css"
+May 14 16:55:38 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f636f7069652f7374796c652e637373|]
+May 14 16:55:38 10.71.51.12 u93486425 rmdir name "/copie"
+May 14 16:55:38 10.71.51.12 u93486425 [10.71.51.12|rmdir|0|0|0|0|0|2f636f706965|]
+May 14 16:56:34 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 16:56:34 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 16:56:34 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 16:56:34 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 16:57:31 10.71.51.12 u93486425 remove name "/images/acer.png"
+May 14 16:57:31 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f616365722e706e67|]
+May 14 16:57:35 10.71.51.12 u93486425 remove name "/images/asus.png"
+May 14 16:57:35 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f617375732e706e67|]
+May 14 16:57:59 10.71.51.12 u93486425 remove name "/images/hp.png"
+May 14 16:57:59 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f68702e706e67|]
+May 14 16:58:11 10.71.51.12 u93486425 remove name "/images/intel.png"
+May 14 16:58:11 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f696e74656c2e706e67|]
+May 14 16:58:25 10.71.51.12 u93486425 remove name "/images/msi.png"
+May 14 16:58:25 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f6d73692e706e67|]
+May 14 16:58:27 10.71.51.12 u93486425 remove name "/images/nvidia.png"
+May 14 16:58:27 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f6e76696469612e706e67|]
+May 14 16:58:56 10.71.51.12 u93486425 remove name "/images/ordinateurrr.png"
+May 14 16:58:56 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f6f7264696e617465757272722e706e67|]
+May 14 16:59:23 10.71.51.12 u93486425 remove name "/images/adielogo.png"
+May 14 16:59:23 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f616469656c6f676f2e706e67|]
+May 14 16:59:43 10.71.51.12 u93486425 remove name "/images/mail.png"
+May 14 16:59:43 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f6d61696c2e706e67|]
+May 14 17:00:11 10.71.51.12 u93486425 remove name "/images/smartphone.png"
+May 14 17:00:11 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f736d61727470686f6e652e706e67|]
+May 14 17:00:13 10.71.51.12 u93486425 remove name "/images/localisation.png"
+May 14 17:00:13 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f6c6f63616c69736174696f6e2e706e67|]
+May 14 17:01:44 10.71.51.12 u93486425 remove name "/images/loupe.png"
+May 14 17:01:44 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f6c6f7570652e706e67|]
+May 14 17:01:49 10.71.51.12 u93486425 remove name "/images/rouedent.png"
+May 14 17:01:49 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f726f756564656e742e706e67|]
+May 14 17:01:54 10.71.51.12 u93486425 remove name "/images/blocnote.png"
+May 14 17:01:54 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f626c6f636e6f74652e706e67|]
+May 14 17:01:56 10.71.51.12 u93486425 remove name "/images/certificat.png"
+May 14 17:01:56 10.71.51.12 u93486425 [10.71.51.12|rm|0|0|0|0|0|2f696d616765732f636572746966696361742e706e67|]
+May 14 17:17:59 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:17:59 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:18:23 10.71.51.12 u93486425 Connection from 10.71.51.12 port 38484 on 217.160.63.88 port 22
+May 14 17:18:25 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 38484 ssh2
+May 14 17:18:25 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 38484
+May 14 17:18:25 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:18:30 10.71.51.12 u93486425 Connection from 10.71.51.12 port 47262 on 217.160.63.88 port 22
+May 14 17:18:30 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 47262 ssh2
+May 14 17:18:30 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 47262
+May 14 17:18:30 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:18:32 10.71.51.12 u93486425 open "/style/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 17:18:32 10.71.51.12 u93486425 close "/style/style.css" bytes read 0 written 16692
+May 14 17:18:32 10.71.51.12 u93486425 [10.71.51.12|put|0|16692|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 17:19:32 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:19:32 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:22:08 10.71.51.12 u93486425 Connection from 10.71.51.12 port 62210 on 217.160.63.88 port 22
+May 14 17:22:09 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 62210 ssh2
+May 14 17:22:09 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 62210
+May 14 17:22:09 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:22:10 10.71.51.12 u93486425 open "/style/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 17:22:10 10.71.51.12 u93486425 close "/style/style.css" bytes read 0 written 16691
+May 14 17:22:10 10.71.51.12 u93486425 [10.71.51.12|put|0|16691|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 17:23:10 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:23:10 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:23:46 10.71.51.12 u93486425 Connection from 10.71.51.12 port 55918 on 217.160.63.88 port 22
+May 14 17:23:46 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 55918 ssh2
+May 14 17:23:46 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 55918
+May 14 17:23:46 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:23:48 10.71.51.12 u93486425 open "/style/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 17:23:48 10.71.51.12 u93486425 close "/style/style.css" bytes read 0 written 16692
+May 14 17:23:48 10.71.51.12 u93486425 [10.71.51.12|put|0|16692|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 17:24:48 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:24:48 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:33:01 10.71.51.12 u93486425 Connection from 10.71.51.12 port 62056 on 217.160.63.88 port 22
+May 14 17:33:02 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 62056 ssh2
+May 14 17:33:02 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 62056
+May 14 17:33:02 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:33:02 10.71.51.12 u93486425 open "/style/style.css" flags READ mode 0666
+May 14 17:33:02 10.71.51.12 u93486425 close "/style/style.css" bytes read 16692 written 0
+May 14 17:33:02 10.71.51.12 u93486425 [10.71.51.12|get|0|16692|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 17:34:02 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:34:02 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:39:05 10.71.51.12 u93486425 Connection from 10.71.51.12 port 50316 on 217.160.63.88 port 22
+May 14 17:39:05 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 50316 ssh2
+May 14 17:39:05 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 50316
+May 14 17:39:05 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:39:05 10.71.51.12 u93486425 open "/style/style.css" flags READ mode 0666
+May 14 17:39:05 10.71.51.12 u93486425 close "/style/style.css" bytes read 16692 written 0
+May 14 17:39:05 10.71.51.12 u93486425 [10.71.51.12|get|0|16692|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 17:40:05 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:40:05 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:40:55 10.71.51.12 u93486425 Connection from 10.71.51.12 port 52202 on 217.160.63.88 port 22
+May 14 17:40:55 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 52202 ssh2
+May 14 17:40:55 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 52202
+May 14 17:40:55 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:40:57 10.71.51.12 u93486425 open "/style/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 17:40:57 10.71.51.12 u93486425 close "/style/style.css" bytes read 0 written 16691
+May 14 17:40:57 10.71.51.12 u93486425 [10.71.51.12|put|0|16691|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 17:41:57 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:41:57 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:43:05 10.71.51.12 u93486425 Connection from 10.71.51.12 port 21588 on 217.160.63.88 port 22
+May 14 17:43:05 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 21588 ssh2
+May 14 17:43:05 10.71.51.12 u93486425 Connection from 10.71.51.12 port 21596 on 217.160.63.88 port 22
+May 14 17:43:05 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 21596 ssh2
+May 14 17:43:05 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 21588
+May 14 17:43:05 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 21596
+May 14 17:43:05 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:43:05 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:43:06 10.71.51.12 u93486425 open "/accueil.html" flags READ mode 0666
+May 14 17:43:06 10.71.51.12 u93486425 close "/accueil.html" bytes read 383 written 0
+May 14 17:43:06 10.71.51.12 u93486425 [10.71.51.12|get|0|383|0|0|0|2f6163637565696c2e68746d6c|]
+May 14 17:43:06 10.71.51.12 u93486425 sent status No such file
+May 14 17:43:11 10.71.51.12 u93486425 open "/favicon.ico" flags READ mode 0666
+May 14 17:43:11 10.71.51.12 u93486425 close "/favicon.ico" bytes read 1406 written 0
+May 14 17:43:11 10.71.51.12 u93486425 [10.71.51.12|get|0|1406|0|0|0|2f66617669636f6e2e69636f|]
+May 14 17:43:12 10.71.51.12 u93486425 open "/images/telephone.png" flags READ mode 0666
+May 14 17:43:12 10.71.51.12 u93486425 close "/images/telephone.png" bytes read 920 written 0
+May 14 17:43:12 10.71.51.12 u93486425 [10.71.51.12|get|0|920|0|0|0|2f696d616765732f74656c6570686f6e652e706e67|]
+May 14 17:43:12 10.71.51.12 u93486425 open "/images/settings.png" flags READ mode 0666
+May 14 17:43:12 10.71.51.12 u93486425 close "/images/settings.png" bytes read 1505 written 0
+May 14 17:43:12 10.71.51.12 u93486425 [10.71.51.12|get|0|1505|0|0|0|2f696d616765732f73657474696e67732e706e67|]
+May 14 17:43:12 10.71.51.12 u93486425 open "/images/securite.png" flags READ mode 0666
+May 14 17:43:12 10.71.51.12 u93486425 close "/images/securite.png" bytes read 1360 written 0
+May 14 17:43:12 10.71.51.12 u93486425 [10.71.51.12|get|0|1360|0|0|0|2f696d616765732f73656375726974652e706e67|]
+May 14 17:43:12 10.71.51.12 u93486425 open "/images/mailbas.png" flags READ mode 0666
+May 14 17:43:12 10.71.51.12 u93486425 close "/images/mailbas.png" bytes read 725 written 0
+May 14 17:43:12 10.71.51.12 u93486425 [10.71.51.12|get|0|725|0|0|0|2f696d616765732f6d61696c6261732e706e67|]
+May 14 17:43:12 10.71.51.12 u93486425 open "/images/logoanbginformatique.png" flags READ mode 0666
+May 14 17:43:12 10.71.51.12 u93486425 close "/images/logoanbginformatique.png" bytes read 2035 written 0
+May 14 17:43:12 10.71.51.12 u93486425 [10.71.51.12|get|0|2035|0|0|0|2f696d616765732f6c6f676f616e6267696e666f726d6174697175652e706e67|]
+May 14 17:43:13 10.71.51.12 u93486425 open "/images/localisationbas.png" flags READ mode 0666
+May 14 17:43:13 10.71.51.12 u93486425 close "/images/localisationbas.png" bytes read 1351 written 0
+May 14 17:43:13 10.71.51.12 u93486425 [10.71.51.12|get|0|1351|0|0|0|2f696d616765732f6c6f63616c69736174696f6e6261732e706e67|]
+May 14 17:43:13 10.71.51.12 u93486425 open "/images/ladepeche.png" flags READ mode 0666
+May 14 17:43:13 10.71.51.12 u93486425 close "/images/ladepeche.png" bytes read 3918 written 0
+May 14 17:43:13 10.71.51.12 u93486425 [10.71.51.12|get|0|3918|0|0|0|2f696d616765732f6c61646570656368652e706e67|]
+May 14 17:43:13 10.71.51.12 u93486425 open "/images/installation.png" flags READ mode 0666
+May 14 17:43:13 10.71.51.12 u93486425 close "/images/installation.png" bytes read 1751 written 0
+May 14 17:43:13 10.71.51.12 u93486425 [10.71.51.12|get|0|1751|0|0|0|2f696d616765732f696e7374616c6c6174696f6e2e706e67|]
+May 14 17:43:13 10.71.51.12 u93486425 open "/images/hautdusite2.png" flags READ mode 0666
+May 14 17:43:13 10.71.51.12 u93486425 close "/images/hautdusite2.png" bytes read 766 written 0
+May 14 17:43:13 10.71.51.12 u93486425 [10.71.51.12|get|0|766|0|0|0|2f696d616765732f68617574647573697465322e706e67|]
+May 14 17:43:13 10.71.51.12 u93486425 open "/images/facebook.png" flags READ mode 0666
+May 14 17:43:13 10.71.51.12 u93486425 close "/images/facebook.png" bytes read 1022 written 0
+May 14 17:43:13 10.71.51.12 u93486425 [10.71.51.12|get|0|1022|0|0|0|2f696d616765732f66616365626f6f6b2e706e67|]
+May 14 17:43:13 10.71.51.12 u93486425 open "/index.php" flags READ mode 0666
+May 14 17:43:13 10.71.51.12 u93486425 open "/images/diaporama.jpg" flags READ mode 0666
+May 14 17:43:13 10.71.51.12 u93486425 close "/index.php" bytes read 12077 written 0
+May 14 17:43:13 10.71.51.12 u93486425 [10.71.51.12|get|0|12077|0|0|0|2f696e6465782e706870|]
+May 14 17:43:14 10.71.51.12 u93486425 close "/images/diaporama.jpg" bytes read 831352 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|1|831352|0|0|0|2f696d616765732f646961706f72616d612e6a7067|]
+May 14 17:43:14 10.71.51.12 u93486425 open "/images/diapo.jpg" flags READ mode 0666
+May 14 17:43:14 10.71.51.12 u93486425 open "/images/conseil.png" flags READ mode 0666
+May 14 17:43:14 10.71.51.12 u93486425 close "/images/diapo.jpg" bytes read 422350 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|0|422350|0|0|0|2f696d616765732f646961706f2e6a7067|]
+May 14 17:43:14 10.71.51.12 u93486425 close "/images/conseil.png" bytes read 1683 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|0|1683|0|0|0|2f696d616765732f636f6e7365696c2e706e67|]
+May 14 17:43:14 10.71.51.12 u93486425 open "/images/carnetbas.png" flags READ mode 0666
+May 14 17:43:14 10.71.51.12 u93486425 open "/images/cours.png" flags READ mode 0666
+May 14 17:43:14 10.71.51.12 u93486425 close "/images/carnetbas.png" bytes read 1343 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|0|1343|0|0|0|2f696d616765732f6361726e65746261732e706e67|]
+May 14 17:43:14 10.71.51.12 u93486425 close "/images/cours.png" bytes read 2381 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|0|2381|0|0|0|2f696d616765732f636f7572732e706e67|]
+May 14 17:43:14 10.71.51.12 u93486425 open "/js/slick.min.js" flags READ mode 0666
+May 14 17:43:14 10.71.51.12 u93486425 open "/js/jquery.fullPage.js" flags READ mode 0666
+May 14 17:43:14 10.71.51.12 u93486425 close "/js/slick.min.js" bytes read 42863 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|0|42863|0|0|0|2f6a732f736c69636b2e6d696e2e6a73|]
+May 14 17:43:14 10.71.51.12 u93486425 close "/js/jquery.fullPage.js" bytes read 112015 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|0|112015|0|0|0|2f6a732f6a71756572792e66756c6c506167652e6a73|]
+May 14 17:43:14 10.71.51.12 u93486425 open "/js/script.js" flags READ mode 0666
+May 14 17:43:14 10.71.51.12 u93486425 close "/js/script.js" bytes read 311 written 0
+May 14 17:43:14 10.71.51.12 u93486425 [10.71.51.12|get|0|311|0|0|0|2f6a732f7363726970742e6a73|]
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/owl.video.play.png" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/owl.video.play.png" bytes read 4976 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|4976|0|0|0|2f6a732f6173736574732f6f776c2e766964656f2e706c61792e706e67|]
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.min.css" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.css" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.min.css" bytes read 936 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e6d696e2e637373|]
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.css" bytes read 1301 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|1301|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e637373|]
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.min.css" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.css" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.min.css" bytes read 936 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e6d696e2e637373|]
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.css" bytes read 1303 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|1303|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e637373|]
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/owl.carousel.min.css" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/ajax-loader.gif" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/owl.carousel.min.css" bytes read 2936 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|2936|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e6d696e2e637373|]
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/ajax-loader.gif" bytes read 3208 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|3208|0|0|0|2f6a732f6173736574732f616a61782d6c6f616465722e676966|]
+May 14 17:43:15 10.71.51.12 u93486425 open "/js/assets/owl.carousel.css" flags READ mode 0666
+May 14 17:43:15 10.71.51.12 u93486425 close "/js/assets/owl.carousel.css" bytes read 4028 written 0
+May 14 17:43:15 10.71.51.12 u93486425 [10.71.51.12|get|0|4028|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e637373|]
+May 14 17:43:15 10.71.51.12 u93486425 open "/logs/sftp.log" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.20.1" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/sftp.log" bytes read 67457 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|1|67457|0|0|0|2f6c6f67732f736674702e6c6f67|]
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.18.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.20.1" bytes read 70180 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|70180|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e31|]
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.18.gz" bytes read 19595 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|19595|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/mail.log.19.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/mail.log.19.gz" bytes read 373 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|373|0|0|0|2f6c6f67732f6d61696c2e6c6f672e31392e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/sftp.log.19.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/sftp.log.19.gz" bytes read 3171 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|3171|0|0|0|2f6c6f67732f736674702e6c6f672e31392e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.19.7.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.19.7.gz" bytes read 1430 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|1430|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e372e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.19.6.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.19.5.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.19.6.gz" bytes read 3454 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|3454|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e362e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.19.5.gz" bytes read 855 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|855|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e352e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.19.4.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.19.3.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.19.4.gz" bytes read 748 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|748|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e342e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.19.3.gz" bytes read 1506 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|1506|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e332e677a|]
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.19.2.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 open "/logs/access.log.19.1.gz" flags READ mode 0666
+May 14 17:43:16 10.71.51.12 u93486425 close "/logs/access.log.19.2.gz" bytes read 737 written 0
+May 14 17:43:16 10.71.51.12 u93486425 [10.71.51.12|get|0|737|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e322e677a|]
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/access.log.19.1.gz" bytes read 1773 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|1|1773|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e312e677a|]
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/sftp.log.18.gz" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/last_traffic" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/sftp.log.18.gz" bytes read 12779 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|12779|0|0|0|2f6c6f67732f736674702e6c6f672e31382e677a|]
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/last_traffic" bytes read 0 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/traffic.db" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/info.php5" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/traffic.db" bytes read 12288 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|12288|0|0|0|2f6c6f67732f747261666669632e6462|]
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/info.php5" bytes read 21 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/.htaccess" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/.htaccess" bytes read 267 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 sent status Permission denied
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 sent status Permission denied
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/traffic.html/05.html" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 sent status Permission denied
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/traffic.html/05.html" bytes read 4699 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|4699|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/traffic.html/index.html" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/traffic.html/index.html" bytes read 2356 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|2356|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+May 14 17:43:17 10.71.51.12 u93486425 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+May 14 17:43:17 10.71.51.12 u93486425 [10.71.51.12|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+May 14 17:43:18 10.71.51.12 u93486425 open "/logs/access.log.20.1" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 open "/style/style.css" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 close "/logs/access.log.20.1" bytes read 70180 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|70180|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e31|]
+May 14 17:43:18 10.71.51.12 u93486425 close "/style/style.css" bytes read 16691 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|16691|0|0|0|2f7374796c652f7374796c652e637373|]
+May 14 17:43:18 10.71.51.12 u93486425 open "/style/slick-theme.css" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 open "/style/slick.css" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 close "/style/slick-theme.css" bytes read 3145 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|3145|0|0|0|2f7374796c652f736c69636b2d7468656d652e637373|]
+May 14 17:43:18 10.71.51.12 u93486425 close "/style/slick.css" bytes read 1776 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|1776|0|0|0|2f7374796c652f736c69636b2e637373|]
+May 14 17:43:18 10.71.51.12 u93486425 open "/style/ajax-loader.gif" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 open "/style/jquery.fullPage.css" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 close "/style/ajax-loader.gif" bytes read 4178 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|4178|0|0|0|2f7374796c652f616a61782d6c6f616465722e676966|]
+May 14 17:43:18 10.71.51.12 u93486425 close "/style/jquery.fullPage.css" bytes read 5072 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|5072|0|0|0|2f7374796c652f6a71756572792e66756c6c506167652e637373|]
+May 14 17:43:18 10.71.51.12 u93486425 open "/style/fonts/slick.woff" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 open "/style/fonts/slick.ttf" flags READ mode 0666
+May 14 17:43:18 10.71.51.12 u93486425 close "/style/fonts/slick.woff" bytes read 1380 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|1380|0|0|0|2f7374796c652f666f6e74732f736c69636b2e776f6666|]
+May 14 17:43:18 10.71.51.12 u93486425 close "/style/fonts/slick.ttf" bytes read 1892 written 0
+May 14 17:43:18 10.71.51.12 u93486425 [10.71.51.12|get|0|1892|0|0|0|2f7374796c652f666f6e74732f736c69636b2e747466|]
+May 14 17:43:19 10.71.51.12 u93486425 open "/style/fonts/slick.eot" flags READ mode 0666
+May 14 17:43:19 10.71.51.12 u93486425 open "/style/fonts/slick.svg" flags READ mode 0666
+May 14 17:43:19 10.71.51.12 u93486425 close "/style/fonts/slick.eot" bytes read 2048 written 0
+May 14 17:43:19 10.71.51.12 u93486425 [10.71.51.12|get|0|2048|0|0|0|2f7374796c652f666f6e74732f736c69636b2e656f74|]
+May 14 17:43:19 10.71.51.12 u93486425 close "/style/fonts/slick.svg" bytes read 2152 written 0
+May 14 17:43:19 10.71.51.12 u93486425 [10.71.51.12|get|0|2152|0|0|0|2f7374796c652f666f6e74732f736c69636b2e737667|]
+May 14 17:44:19 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:44:19 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:44:19 10.71.51.12 u93486425 session closed for local user u93486425 from [10.71.51.12]
+May 14 17:44:19 10.71.51.12 u93486425 Connection closed by 10.71.51.12
+May 14 17:44:38 10.71.51.12 u93486425 sent status No such file
+May 14 17:44:38 10.71.51.12 u93486425 Connection from 10.71.51.12 port 34428 on 217.160.63.88 port 22
+May 14 17:44:38 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 34428 ssh2
+May 14 17:44:38 10.71.51.12 u93486425 Connection from 10.71.51.12 port 34430 on 217.160.63.88 port 22
+May 14 17:44:38 10.71.51.12 u93486425 Accepted password for u93486425 from 10.71.51.12 port 34430 ssh2
+May 14 17:44:38 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 34428
+May 14 17:44:38 10.71.51.12 u93486425 Starting session: subsystem 'sftp' for u93486425 from 10.71.51.12 port 34430
+May 14 17:44:38 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:44:38 10.71.51.12 u93486425 session opened for local user u93486425 from [10.71.51.12]
+May 14 17:44:38 10.71.51.12 u93486425 open "/favicon.ico" flags READ mode 0666
+May 14 17:44:38 10.71.51.12 u93486425 open "/accueil.html" flags READ mode 0666
+May 14 17:44:38 10.71.51.12 u93486425 close "/accueil.html" bytes read 383 written 0
+May 14 17:44:38 10.71.51.12 u93486425 [10.71.51.12|get|0|383|0|0|0|2f6163637565696c2e68746d6c|]
+May 14 17:44:38 10.71.51.12 u93486425 close "/favicon.ico" bytes read 1406 written 0
+May 14 17:44:38 10.71.51.12 u93486425 [10.71.51.12|get|0|1406|0|0|0|2f66617669636f6e2e69636f|]
+May 14 17:44:39 10.71.51.12 u93486425 open "/index.php" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 close "/index.php" bytes read 12077 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|12077|0|0|0|2f696e6465782e706870|]
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/telephone.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/telephone.png" bytes read 920 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|920|0|0|0|2f696d616765732f74656c6570686f6e652e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/settings.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/securite.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/settings.png" bytes read 1505 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|1505|0|0|0|2f696d616765732f73657474696e67732e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/securite.png" bytes read 1360 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|1360|0|0|0|2f696d616765732f73656375726974652e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/mailbas.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/logoanbginformatique.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/mailbas.png" bytes read 725 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|725|0|0|0|2f696d616765732f6d61696c6261732e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/logoanbginformatique.png" bytes read 2035 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|2035|0|0|0|2f696d616765732f6c6f676f616e6267696e666f726d6174697175652e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/localisationbas.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/ladepeche.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/localisationbas.png" bytes read 1351 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|1351|0|0|0|2f696d616765732f6c6f63616c69736174696f6e6261732e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/ladepeche.png" bytes read 3918 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|3918|0|0|0|2f696d616765732f6c61646570656368652e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/installation.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 open "/images/hautdusite2.png" flags READ mode 0666
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/installation.png" bytes read 1751 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|1751|0|0|0|2f696d616765732f696e7374616c6c6174696f6e2e706e67|]
+May 14 17:44:39 10.71.51.12 u93486425 close "/images/hautdusite2.png" bytes read 766 written 0
+May 14 17:44:39 10.71.51.12 u93486425 [10.71.51.12|get|0|766|0|0|0|2f696d616765732f68617574647573697465322e706e67|]
+May 14 17:44:40 10.71.51.12 u93486425 open "/images/facebook.png" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 open "/images/diaporama.jpg" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 close "/images/facebook.png" bytes read 1022 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|1022|0|0|0|2f696d616765732f66616365626f6f6b2e706e67|]
+May 14 17:44:40 10.71.51.12 u93486425 open "/images/diapo.jpg" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 close "/images/diaporama.jpg" bytes read 831352 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|831352|0|0|0|2f696d616765732f646961706f72616d612e6a7067|]
+May 14 17:44:40 10.71.51.12 u93486425 open "/images/conseil.png" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 close "/images/diapo.jpg" bytes read 422350 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|422350|0|0|0|2f696d616765732f646961706f2e6a7067|]
+May 14 17:44:40 10.71.51.12 u93486425 close "/images/conseil.png" bytes read 1683 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|1683|0|0|0|2f696d616765732f636f6e7365696c2e706e67|]
+May 14 17:44:40 10.71.51.12 u93486425 open "/images/cours.png" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 open "/images/carnetbas.png" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 close "/images/cours.png" bytes read 2381 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|2381|0|0|0|2f696d616765732f636f7572732e706e67|]
+May 14 17:44:40 10.71.51.12 u93486425 close "/images/carnetbas.png" bytes read 1343 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|1343|0|0|0|2f696d616765732f6361726e65746261732e706e67|]
+May 14 17:44:40 10.71.51.12 u93486425 open "/js/slick.min.js" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 open "/js/jquery.fullPage.js" flags READ mode 0666
+May 14 17:44:40 10.71.51.12 u93486425 close "/js/slick.min.js" bytes read 42863 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|42863|0|0|0|2f6a732f736c69636b2e6d696e2e6a73|]
+May 14 17:44:40 10.71.51.12 u93486425 close "/js/jquery.fullPage.js" bytes read 112015 written 0
+May 14 17:44:40 10.71.51.12 u93486425 [10.71.51.12|get|0|112015|0|0|0|2f6a732f6a71756572792e66756c6c506167652e6a73|]
+May 14 17:44:40 10.71.51.12 u93486425 open "/js/script.js" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/script.js" bytes read 311 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|1|311|0|0|0|2f6a732f7363726970742e6a73|]
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/owl.video.play.png" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/owl.video.play.png" bytes read 4976 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|4976|0|0|0|2f6a732f6173736574732f6f776c2e766964656f2e706c61792e706e67|]
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.min.css" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/owl.theme.green.css" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.min.css" bytes read 936 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e6d696e2e637373|]
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/owl.theme.green.css" bytes read 1301 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|1301|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e677265656e2e637373|]
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.min.css" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/owl.theme.default.css" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.min.css" bytes read 936 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|936|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e6d696e2e637373|]
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/owl.theme.default.css" bytes read 1303 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|1303|0|0|0|2f6a732f6173736574732f6f776c2e7468656d652e64656661756c742e637373|]
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/owl.carousel.min.css" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/ajax-loader.gif" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/owl.carousel.min.css" bytes read 2936 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|2936|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e6d696e2e637373|]
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/ajax-loader.gif" bytes read 3208 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|3208|0|0|0|2f6a732f6173736574732f616a61782d6c6f616465722e676966|]
+May 14 17:44:41 10.71.51.12 u93486425 open "/js/assets/owl.carousel.css" flags READ mode 0666
+May 14 17:44:41 10.71.51.12 u93486425 close "/js/assets/owl.carousel.css" bytes read 4028 written 0
+May 14 17:44:41 10.71.51.12 u93486425 [10.71.51.12|get|0|4028|0|0|0|2f6a732f6173736574732f6f776c2e6361726f7573656c2e637373|]
+May 14 17:44:41 10.71.51.12 u93486425 open "/logs/sftp.log" flags READ mode 0666
